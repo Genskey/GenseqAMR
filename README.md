@@ -1,1 +1,1 @@
-# GenseqAMR
+# GenseqAMR pipeline
