@@ -1,0 +1,13 @@
+#Patho	drug	cutooff(contig)	PPV(contig)	NPV(contig)	AUC(contig)
+Klebsiella pneumoniae	cephalosporin:ceftazidime	2.419621	0.986	0.751	0.951
+Klebsiella pneumoniae	carbapenem:imipenem	3.427238	0.947	0.964	0.963
+Klebsiella pneumoniae	carbapenem:meropenem	1.969958	0.948	0.942	0.945
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	1.193029	0.967	0.919	0.943
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	1.508625	0.967	0.797	0.915
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	0.473469	0.964	0.780	0.927
+Escherichia coli	cephalosporin:ceftazidime	4.844752	0.926	0.944	0.925
+Escherichia coli	carbapenem:imipenem	4.835987	0.853	0.990	0.923
+Escherichia coli	carbapenem:meropenem	2.169764	0.887	0.983	0.916
+Escherichia coli	aminoglycoside antibiotic:gentamicin	4.927598	0.968	0.967	0.925
+Escherichia coli	aminoglycoside antibiotic:tobramycin	3.484384	0.940	0.937	0.901
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	2.980894	0.949	0.929	0.955

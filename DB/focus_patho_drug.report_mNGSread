@@ -1,0 +1,13 @@
+#Patho	drug	cutooff(contig)	PPV(contig)	NPV(contig)	AUC(contig)	cutoff(read_WGS)	PPV(read_WGS)	NPV(read_WGS)	AUC(read_WGS)	R_cutoff(read_mNGS)	PPV(read_mNGS)	LOD_up(read_mNGS)	S_cutoff_up(read_mNGS)	NPV_up(read_mNGS)	LOD_down(read_mNGS)	S_cutoff_down(read_mNGS)	NPV_down(read_mNGS)
+Klebsiella pneumoniae	cephalosporin:ceftazidime	2.419621	0.986	0.751	0.951	3.577501	0.982	0.669	0.927	2.419621	0.974 	-	-	-	-	-	-
+Klebsiella pneumoniae	carbapenem:imipenem	3.427238	0.947	0.964	0.963	3.427238	0.946	0.969	0.966	3.427238	0.943 	38	3.427238	0.95	25	3.427238	0.927 
+Klebsiella pneumoniae	carbapenem:meropenem	1.969958	0.948	0.942	0.945	1.969958	0.945	0.948	0.949	1.969958	0.955 	38	1.969958	0.944	25 	1.969958	0.919 
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	1.193029	0.967	0.919	0.943	1.193029	0.968	0.922	0.944	1.193029	0.955 	43	1.193029	0.932 	32 	1.193029	0.916 
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	1.508625	0.967	0.797	0.915	1.667395	0.964	0.805	0.922	2.946941	0.91 	43	1.048393	0.924	32	1.048393	0.9
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	0.473469	0.964	0.780	0.927	0.473469	0.963	0.764	0.922	0.473469	0.963 	-	-	-	-	-	-
+Escherichia coli	cephalosporin:ceftazidime	4.844752	0.926	0.944	0.925	4.844752	0.926	0.949	0.932	2.32716	0.905 	95	2.32716	0.943	26	2.32716	0.921
+Escherichia coli	carbapenem:imipenem	4.835987	0.853	0.990	0.923	4.835987	0.847	0.992	0.933	4.835987	0.847 	95	4.835987	0.992	26	4.835987	0.988
+Escherichia coli	carbapenem:meropenem	2.169764	0.887	0.983	0.916	2.169764	0.882	0.985	0.924	2.169764	0.882 	95	2.169764	0.985	26	2.169764	0.976
+Escherichia coli	aminoglycoside antibiotic:gentamicin	4.927598	0.968	0.967	0.925	4.927598	0.965	0.979	0.951	4.927598	0.965 	95	4.927598	0.979	26	4.927598	0.967
+Escherichia coli	aminoglycoside antibiotic:tobramycin	3.484384	0.940	0.937	0.901	3.484384	0.937	0.944	0.911	3.484384	0.937 	95	3.484384	0.944	26	3.484384	0.924
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	2.980894	0.949	0.929	0.955	2.535802	0.954	0.930	0.964	2.5286	0.942 	55	2.5286	0.91	33	1.474456	0.906

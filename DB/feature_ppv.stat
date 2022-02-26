@@ -1,0 +1,1272 @@
+Klebsiella pneumoniae	carbapenem:imipenem		OXA-181	1.000	20/20
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	OXA-232	0.941	16/17
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	OXA-48	0.727	16/22
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	KPC-3	0.990	194/196
+Klebsiella pneumoniae	carbapenem:imipenem	KPC	KPC-2	0.938	441/470
+Klebsiella pneumoniae	carbapenem:imipenem	KPC	NDM-1	0.941	48/51
+Klebsiella pneumoniae	carbapenem:imipenem	NDM	NDM-7	1.000	3/3
+Klebsiella pneumoniae	carbapenem:imipenem	NDM	TEM-84	1.000	4/4
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-117	1.000	2/2
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-54	0.901	218/242
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	LEN-6	0.938	15/16
+Klebsiella pneumoniae	carbapenem:imipenem	LEN	DHA-1	0.600	3/5
+Klebsiella pneumoniae	carbapenem:imipenem	DHA	SHV-53	0.839	26/31
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-182	0.835	177/212
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-12	0.680	264/388
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	FOX-5	0.667	6/9
+Klebsiella pneumoniae	carbapenem:imipenem	FOX	CMY-158	0.857	6/7
+Klebsiella pneumoniae	carbapenem:imipenem	CMY	CMY-94	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	CMY	OXA-9	0.914	498/545
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-9 family	QnrA7	1.000	5/5
+Klebsiella pneumoniae	carbapenem:imipenem	QNRA	QnrB4	0.600	3/5
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	VIM-27	1.000	2/2
+Klebsiella pneumoniae	carbapenem:imipenem	VIM	ADC-214	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	ADC-215-like	ADC-56	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	ADC-30-like	CARB-1	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	CARB	CARB-3	0.636	7/11
+Klebsiella pneumoniae	carbapenem:imipenem	CARB	CMY-16	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	CMY	CMY-2	1.000	2/2
+Klebsiella pneumoniae	carbapenem:imipenem	CMY	CMY-6	1.000	3/3
+Klebsiella pneumoniae	carbapenem:imipenem	CMY	CTX-M-106	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-11	0.667	2/3
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-14	0.120	3/25
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-15	0.276	259/938
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-2	0.500	1/2
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-27	0.000	0/5
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-3	0.167	1/6
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-40	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-55	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-62	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-63	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-65	0.333	1/3
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-9	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	CTX-M-98	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	CTX	DHA-6	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	DHA	DHA-7	1.000	2/2
+Klebsiella pneumoniae	carbapenem:imipenem	DHA	EC-5	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	EC	Escherichia coli ampC1 beta-lactamase	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	PBP4B	Escherichia coli ampH beta-lactamase	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	AMPH	GES-19	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	GES	GES-2	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	GES	GES-20	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	GES	GES-26	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	GES	IMP-15	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	IMP	IMP-4	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	IMP	KPC-14	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	KPC	KPC-4	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	KPC	KPC-8	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	KPC	KPC-9	0.667	2/3
+Klebsiella pneumoniae	carbapenem:imipenem	KPC	Klebsiella pneumoniae OmpK37	0.423	760/1797
+Klebsiella pneumoniae	carbapenem:imipenem	OMP37	LAP-1	0.067	1/15
+Klebsiella pneumoniae	carbapenem:imipenem	LAP	LAP-2	0.115	3/26
+Klebsiella pneumoniae	carbapenem:imipenem	LAP	LEN-17	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	LEN	LEN-2	0.000	0/3
+Klebsiella pneumoniae	carbapenem:imipenem	LEN	LEN-55	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	LEN	LEN-7	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	LEN	NDM-5	1.000	10/10
+Klebsiella pneumoniae	carbapenem:imipenem	NDM	OKP-A-3	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-A-5	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-A-7	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-A-8	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-22	0.000	0/4
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-3	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-40	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-41	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-45	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-5	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OKP-B-8	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OKP	OXA-1	0.187	77/411
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-1 family	OXA-10	0.800	8/10
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-10 family	OXA-140	0.167	1/6
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-1 family	OXA-16	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-10 family	OXA-162	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	OXA-163	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	OXA-2	0.545	6/11
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-2 family	OXA-24	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-24 family	OXA-244	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	OXA-245	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-48 family	OXA-65	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-51 family	OXA-663	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-10 family	OXA-827	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-10 family	OXA-83	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	OXA-51 family	OmpA	0.423	763/1802
+Klebsiella pneumoniae	carbapenem:imipenem	OMPA	QnrA1	0.167	1/6
+Klebsiella pneumoniae	carbapenem:imipenem	QNRA	QnrB1	0.124	27/218
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrB10	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrB17	0.325	26/80
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrB19	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrB20	0.286	2/7
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrB5	0.500	4/8
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrB9	1.000	3/3
+Klebsiella pneumoniae	carbapenem:imipenem	QNRB	QnrE1	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	QNRE	QnrS1	0.286	26/91
+Klebsiella pneumoniae	carbapenem:imipenem	QNRS	SCO-1	0.500	1/2
+Klebsiella pneumoniae	carbapenem:imipenem	SCO	SHV-1	0.081	10/124
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-100	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-101	0.000	0/3
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-106	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-108	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-11	0.800	8/10
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-116	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-119	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-120	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-121	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-124	1.000	3/3
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-125	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-13	0.538	21/39
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-133	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-14	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-141	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-142	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-143	0.667	4/6
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-146	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-15	1.000	2/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-155	0.714	15/21
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-161	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-171	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-172	0.000	0/4
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-185	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-187	0.059	2/34
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-189	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-19	0.500	1/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-190	0.500	2/4
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-2	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-200	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-202	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-205	0.000	0/4
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-207	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-212	0.571	8/14
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-215	0.100	2/20
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-217	0.000	0/6
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-220	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-223	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-24	0.136	3/22
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-26	0.800	8/10
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-27	0.073	3/41
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-28	0.338	178/527
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-30	0.222	6/27
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-32	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-33	0.167	1/6
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-36	0.429	3/7
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-37	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-40	0.098	5/51
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-41	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-44	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-45	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-5	0.217	5/23
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-52	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-59	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-60	0.000	0/4
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-62	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-65	0.333	1/3
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-67	0.280	14/50
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-69	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-71	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-72	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-74	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-75	0.143	1/7
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-76	0.111	1/9
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-77	0.109	5/46
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-82	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	SHV-99	0.200	2/10
+Klebsiella pneumoniae	carbapenem:imipenem	SHV	TEM-1	0.875	7/8
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-122	0.889	8/9
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-141	0.333	4/12
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-15	0.000	0/2
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-150	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-192	0.909	20/22
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-198	0.252	120/476
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-29	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-35	0.000	0/1
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-40	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-63	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-7	0.000	0/4
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	TEM-79	1.000	4/4
+Klebsiella pneumoniae	carbapenem:imipenem	TEM	VEB-1	1.000	6/6
+Klebsiella pneumoniae	carbapenem:imipenem	VEB	VIM-1	1.000	2/2
+Klebsiella pneumoniae	carbapenem:imipenem	VIM	VIM-19	1.000	1/1
+Klebsiella pneumoniae	carbapenem:imipenem	VIM	VIM-4	0.000	0/0
+Klebsiella pneumoniae	carbapenem:imipenem	VIM	WP7S18C02830	0.473	610/1291
+Klebsiella pneumoniae	carbapenem:imipenem	IS903B_family_transposase	formA	0.500	1/2
+Klebsiella pneumoniae	carbapenem:meropenem	formA	OXA-181	1.000	19/19
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	OXA-232	1.000	18/18
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	OXA-163	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	OXA-48	0.621	18/29
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	KPC-3	0.985	199/202
+Klebsiella pneumoniae	carbapenem:meropenem	KPC	KPC-4	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	KPC	KPC-2	0.948	438/462
+Klebsiella pneumoniae	carbapenem:meropenem	KPC	KPC-9	0.667	2/3
+Klebsiella pneumoniae	carbapenem:meropenem	KPC	NDM-1	0.822	60/73
+Klebsiella pneumoniae	carbapenem:meropenem	NDM	NDM-7	1.000	3/3
+Klebsiella pneumoniae	carbapenem:meropenem	NDM	OXA-2	0.692	9/13
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-2 family	SHV-182	0.795	182/229
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	CMY-158	0.857	6/7
+Klebsiella pneumoniae	carbapenem:meropenem	CMY	QnrE1	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	QNRE	OXA-9	0.926	499/539
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-9 family	VIM-27	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	VIM	VIM-4	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	VIM	ADC-214	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	ADC-215-like	ADC-56	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	ADC-30-like	CARB-1	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	CARB	CARB-3	0.667	8/12
+Klebsiella pneumoniae	carbapenem:meropenem	CARB	CMY-16	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	CMY	CMY-2	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	CMY	CMY-6	1.000	4/4
+Klebsiella pneumoniae	carbapenem:meropenem	CMY	CMY-94	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	CMY	CTX-M-106	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-11	0.500	2/4
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-14	0.125	4/32
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-15	0.290	294/1014
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-2	0.500	1/2
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-27	0.000	0/11
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-3	0.000	0/8
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-40	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-55	0.000	0/7
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-62	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-63	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-65	0.333	1/3
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-9	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	CTX-M-98	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	CTX	DHA-1	0.188	3/16
+Klebsiella pneumoniae	carbapenem:meropenem	DHA	DHA-6	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	DHA	DHA-7	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	DHA	EC-5	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	EC	Escherichia coli ampC1 beta-lactamase	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	PBP4B	Escherichia coli ampH beta-lactamase	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	AMPH	FOX-5	0.700	7/10
+Klebsiella pneumoniae	carbapenem:meropenem	FOX	GES-19	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	GES	GES-2	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	GES	GES-20	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	GES	GES-26	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	GES	IMP-15	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	IMP	IMP-4	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	IMP	KPC-14	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	KPC	KPC-8	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	KPC	Klebsiella pneumoniae OmpK37	0.406	802/1974
+Klebsiella pneumoniae	carbapenem:meropenem	OMP37	LAP-1	0.067	1/15
+Klebsiella pneumoniae	carbapenem:meropenem	LAP	LAP-2	0.108	4/37
+Klebsiella pneumoniae	carbapenem:meropenem	LAP	LEN-17	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	LEN	LEN-2	0.000	0/8
+Klebsiella pneumoniae	carbapenem:meropenem	LEN	LEN-55	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	LEN	LEN-6	0.600	15/25
+Klebsiella pneumoniae	carbapenem:meropenem	LEN	LEN-7	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	LEN	NDM-5	1.000	10/10
+Klebsiella pneumoniae	carbapenem:meropenem	NDM	OKP-A-3	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-A-5	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-A-7	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-A-8	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-22	0.429	3/7
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-3	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-40	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-41	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-45	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-5	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OKP-B-8	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OKP	OXA-1	0.209	100/479
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-1 family	OXA-10	0.632	12/19
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-10 family	OXA-140	0.167	1/6
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-1 family	OXA-16	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-10 family	OXA-162	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	OXA-24	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-24 family	OXA-244	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	OXA-245	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-48 family	OXA-65	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-51 family	OXA-663	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-10 family	OXA-827	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-10 family	OXA-83	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	OXA-51 family	OmpA	0.407	805/1980
+Klebsiella pneumoniae	carbapenem:meropenem	OMPA	QnrA1	0.286	2/7
+Klebsiella pneumoniae	carbapenem:meropenem	QNRA	QnrA7	1.000	5/5
+Klebsiella pneumoniae	carbapenem:meropenem	QNRA	QnrB1	0.193	52/269
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB10	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB17	0.264	24/91
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB19	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB20	0.200	2/10
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB4	0.167	3/18
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB5	0.500	4/8
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrB9	0.750	3/4
+Klebsiella pneumoniae	carbapenem:meropenem	QNRB	QnrS1	0.231	28/121
+Klebsiella pneumoniae	carbapenem:meropenem	QNRS	SCO-1	0.500	1/2
+Klebsiella pneumoniae	carbapenem:meropenem	SCO	SHV-1	0.060	8/134
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-100	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-101	0.333	1/3
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-106	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-108	0.000	0/3
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-11	0.800	8/10
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-116	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-119	0.000	0/3
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-12	0.681	277/407
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-120	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-121	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-124	1.000	3/3
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-125	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-13	0.500	20/40
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-133	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-14	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-141	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-142	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-143	0.667	4/6
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-146	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-15	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-155	0.714	15/21
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-161	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-171	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-172	0.091	1/11
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-185	0.000	0/6
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-187	0.000	0/40
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-189	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-19	0.500	1/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-190	0.111	1/9
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-2	0.500	1/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-200	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-202	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-205	0.000	0/4
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-207	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-212	0.429	9/21
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-215	0.043	1/23
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-217	0.000	0/7
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-220	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-223	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-24	0.136	3/22
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-26	0.615	8/13
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-27	0.064	3/47
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-28	0.363	198/546
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-30	0.207	6/29
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-32	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-33	0.045	1/22
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-36	0.333	3/9
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-37	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-40	0.113	7/62
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-41	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-44	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-45	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-5	0.208	5/24
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-52	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-53	0.765	26/34
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-59	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-60	0.000	0/4
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-62	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-65	0.333	1/3
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-67	0.314	16/51
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-69	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-71	0.000	0/3
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-72	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-74	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-75	0.111	1/9
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-76	0.200	2/10
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-77	0.100	5/50
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-82	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	SHV-99	0.348	8/23
+Klebsiella pneumoniae	carbapenem:meropenem	SHV	TEM-1	0.625	10/16
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-117	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-122	0.889	8/9
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-141	0.273	3/11
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-15	0.000	0/2
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-150	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-192	0.833	20/24
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-198	0.247	132/534
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-29	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-35	0.000	0/1
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-40	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-54	0.891	221/248
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-63	0.000	0/0
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-7	0.000	0/5
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-79	1.000	4/4
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	TEM-84	1.000	3/3
+Klebsiella pneumoniae	carbapenem:meropenem	TEM	VEB-1	0.727	8/11
+Klebsiella pneumoniae	carbapenem:meropenem	VEB	VIM-1	1.000	2/2
+Klebsiella pneumoniae	carbapenem:meropenem	VIM	VIM-19	1.000	1/1
+Klebsiella pneumoniae	carbapenem:meropenem	VIM	WP7S18C02830	0.444	639/1439
+Klebsiella pneumoniae	carbapenem:meropenem	IS903B_family_transposase	formA	0.667	2/3
+Klebsiella pneumoniae	cephalosporin:ceftazidime	formA	CTX-M-55	1.000	11/11
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-11	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-15	0.989	1036/1048
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-62	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-98	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-27	0.900	9/10
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-65	1.000	3/3
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	SHV-155	1.000	21/21
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-5	1.000	24/24
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-11	1.000	9/9
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-12	0.990	410/414
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-76	1.000	53/53
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-30	0.964	27/28
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-124	1.000	3/3
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-53	0.971	34/35
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-125	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-14	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-171	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-44	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-182	0.977	250/256
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-205	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-143	1.000	6/6
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-108	1.000	3/3
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-28	0.978	542/554
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	LAP-1	1.000	14/14
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LAP	DHA-1	1.000	16/16
+Klebsiella pneumoniae	cephalosporin:ceftazidime	DHA	OXA-2	1.000	13/13
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-2 family	TEM-7	1.000	5/5
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-84	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-192	1.000	25/25
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-141	1.000	12/12
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-54	0.988	251/254
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-1	1.000	14/14
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	NDM-1	1.000	66/66
+Klebsiella pneumoniae	cephalosporin:ceftazidime	NDM	CARB-3	1.000	13/13
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CARB	OXA-181	1.000	23/23
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	OXA-232	1.000	17/17
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	KPC-3	0.990	200/202
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC	KPC-2	0.994	472/475
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC	KPC-9	1.000	3/3
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC	OXA-10	1.000	21/21
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-10 family	formA	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	formA	LEN-6	0.960	24/25
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LEN	CMY-158	1.000	8/8
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CMY	CMY-94	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CMY	OXA-140	1.000	6/6
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-1 family	FOX-5	1.000	11/11
+Klebsiella pneumoniae	cephalosporin:ceftazidime	FOX	ADC-214	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	ADC-215-like	ADC-56	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	ADC-30-like	CARB-1	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CARB	CMY-16	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CMY	CMY-2	0.833	5/6
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CMY	CMY-6	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CMY	CTX-M-106	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-14	0.423	11/26
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-2	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-3	0.333	2/6
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-40	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-63	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	CTX-M-9	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	CTX	DHA-6	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	DHA	DHA-7	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	DHA	EC-5	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	EC	Escherichia coli ampC1 beta-lactamase	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	PBP4B	Escherichia coli ampH beta-lactamase	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	AMPH	GES-19	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	GES	GES-2	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	GES	GES-20	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	GES	GES-26	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	GES	IMP-15	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	IMP	IMP-4	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	IMP	KPC-14	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC	KPC-4	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC	KPC-8	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC	Klebsiella pneumoniae OmpK37	0.893	1793/2007
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OMP37	LAP-2	0.419	13/31
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LAP	LEN-17	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LEN	LEN-2	0.250	2/8
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LEN	LEN-55	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LEN	LEN-7	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	LEN	NDM-5	1.000	10/10
+Klebsiella pneumoniae	cephalosporin:ceftazidime	NDM	NDM-7	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	NDM	OKP-A-3	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-A-5	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-A-7	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-A-8	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-22	0.857	6/7
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-3	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-40	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-41	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-45	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-5	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OKP-B-8	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OKP	OXA-1	0.970	479/494
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-1 family	OXA-16	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-10 family	OXA-162	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	OXA-163	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	OXA-24	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-24 family	OXA-244	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	OXA-245	0.950	19/20
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	OXA-48	0.905	76/84
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-48 family	OXA-65	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-51 family	OXA-663	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-10 family	OXA-827	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-10 family	OXA-83	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-51 family	OXA-9	0.993	550/554
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OXA-9 family	OmpA	0.893	1797/2012
+Klebsiella pneumoniae	cephalosporin:ceftazidime	OMPA	SCO-1	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SCO	SHV-1	0.840	110/131
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-100	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-101	0.400	2/5
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-106	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-116	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-119	0.333	1/3
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-120	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-121	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-13	0.730	27/37
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-133	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-141	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-142	0.000	0/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-146	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-15	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-161	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-172	0.636	7/11
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-185	0.167	1/6
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-187	0.500	11/22
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-189	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-19	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-190	0.800	4/5
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-2	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-200	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-202	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-207	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-212	0.850	17/20
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-215	0.762	16/21
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-217	0.857	6/7
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-220	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-223	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-24	0.562	9/16
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-26	0.706	12/17
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-27	0.756	34/45
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-32	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-33	0.364	8/22
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-36	0.375	3/8
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-37	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-40	0.526	30/57
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-41	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-45	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-52	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-59	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-60	0.250	1/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-62	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-65	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-67	0.939	46/49
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-69	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-71	0.500	2/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-72	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-74	0.000	0/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-75	0.250	2/8
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-77	0.600	24/40
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-82	0.500	1/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	SHV-99	0.810	17/21
+Klebsiella pneumoniae	cephalosporin:ceftazidime	SHV	TEM-117	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-122	1.000	8/8
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-15	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-150	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-198	0.957	518/541
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-29	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-35	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-40	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-63	0.000	0/0
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	TEM-79	1.000	4/4
+Klebsiella pneumoniae	cephalosporin:ceftazidime	TEM	VEB-1	1.000	11/11
+Klebsiella pneumoniae	cephalosporin:ceftazidime	VEB	VIM-1	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	VIM	VIM-19	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	VIM	VIM-27	1.000	2/2
+Klebsiella pneumoniae	cephalosporin:ceftazidime	VIM	VIM-4	1.000	1/1
+Klebsiella pneumoniae	cephalosporin:ceftazidime	VIM	WP7S18C02830	0.902	1285/1424
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	IS903B_family_transposase	AAC(3)-IIe	0.984	563/572
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-VIa	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-IId	0.943	116/123
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-IV	0.947	90/95
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-IIg	1.000	3/3
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	rmtC	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	RMT	rmtF	0.968	30/31
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	RMT	armA	0.974	76/78
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	RMT	rmtB	1.000	19/19
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	RMT	AF42200	0.633	19/30
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin		ANT(2'')-Ia	0.821	23/28
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT2-DPRIME	EreA2	0.962	25/26
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	EREA	aadA24	0.743	26/35
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA15	1.000	7/7
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA	0.775	138/178
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA1-pm	0.857	18/21
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	AAC(6')-Ib	1.000	22/22
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-33	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-Suzhou	1.000	3/3
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-IIc	1.000	3/3
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	msrE	0.962	76/79
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	MSRE	ErmB	0.886	31/35
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ERMB	APH(3'')-Ib	0.790	64/81
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-DPRIME	APH(6)-Id	0.693	525/758
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH6	AAC(3)-Ia	0.500	1/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-Ib	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC3	AAC(6')-IIa	1.000	5/5
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ia	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ian	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib'	0.289	120/415
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-Hangzhou	0.222	4/18
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr	0.596	347/582
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr4	0.667	2/3
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr5	1.000	2/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr7	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib10	0.200	1/5
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib4	0.875	7/8
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib7	0.667	2/3
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Il	0.600	3/5
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ip	0.500	2/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	ACINNAV5704	0.681	461/677
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-DPRIME	ANT(3'')-IIa	0.211	4/19
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	ANT(9)-Ia	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT9	APH(3')-IIa	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-Ia	0.275	123/447
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-Ib	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-VI	0.900	18/20
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-VIa	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-VIb	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(4)-Ia	0.947	89/94
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH4	APH(6)-Ic	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH6	APHA15	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	APH3-PRIME	EreA	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	EREA	EreB	0.500	1/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	EREB	Erm(42)	0.800	4/5
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ERM42	ErmA	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ERMA	LAP-1	0.571	8/14
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	LAP	LAP-2	0.595	22/37
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	LAP	aadA12	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA13	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA16	0.351	13/37
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA17	0.500	1/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA2	0.335	227/678
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA3	0.200	1/5
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA4	1.000	2/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA5	0.409	9/22
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA8b	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	formA	0.750	3/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	formA	linG	0.833	5/6
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	LNUF	mphA	0.305	201/660
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	MPHA	mphB	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	MPHB	mphE	0.962	75/78
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	MPHE	AAC(3)-IV	1.000	100/100
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-IId	0.861	62/72
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-IIe	0.706	290/411
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	rmtF	1.000	15/15
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	RMT	armA	1.000	36/36
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	RMT	rmtB	1.000	12/12
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	RMT	AAC(6')-Ib-Hangzhou	1.000	16/16
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib4	1.000	7/7
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ip	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib'	0.984	418/425
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-cr7	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-cr	0.963	362/376
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib10	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib7	1.000	3/3
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-33	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Il	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	aadA24	1.000	26/26
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA3	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA2	0.890	478/537
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA1-pm	1.000	18/18
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA5	0.600	9/15
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA	0.926	162/175
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	mphE	1.000	36/36
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	MPHE	ANT(2'')-Ia	1.000	26/26
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT2-DPRIME	AF42200	0.684	13/19
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin		EreA2	1.000	23/23
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	EREA	ErmB	0.895	17/19
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ERMB	linG	1.000	6/6
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	LNUF	APH(3')-Ia	0.915	332/363
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	LAP-1	0.750	3/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	LAP	Erm(42)	1.000	4/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ERM42	ACINNAV5704	0.699	343/491
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-DPRIME	AAC(3)-IIg	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-Ia	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-Ib	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-VIa	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC3	AAC(6')-IIa	1.000	5/5
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-IIc	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ia	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ian	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib	1.000	11/11
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-Suzhou	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-cr4	1.000	2/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-cr5	1.000	2/2
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	ANT(3'')-IIa	0.647	11/17
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	ANT(9)-Ia	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT9	APH(3'')-Ib	0.423	11/26
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-DPRIME	APH(3')-IIa	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-Ib	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-VI	1.000	20/20
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-VIa	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-VIb	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(4)-Ia	1.000	99/99
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH4	APH(6)-Ic	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH6	APH(6)-Id	0.689	356/517
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH6	APHA15	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	APH3-PRIME	EreA	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	EREA	EreB	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	EREB	ErmA	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ERMA	LAP-2	0.250	6/24
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	LAP	aadA12	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA13	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA15	1.000	7/7
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA16	0.550	11/20
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA17	1.000	1/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA4	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA8b	0.000	0/0
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	formA	0.500	2/4
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	formA	mphA	0.874	466/533
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	MPHA	mphB	0.000	0/1
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	MPHB	msrE	1.000	37/37
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	MSRE	rmtC	1.000	3/3
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	RMT	dfrA19	1.000	16/16
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA27	1.000	28/28
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA30	1.000	11/11
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA14	0.946	729/771
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA17	1.000	21/21
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA12	0.991	648/654
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA8	1.000	6/6
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA15	1.000	26/26
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA15b	1.000	5/5
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA1	0.908	69/76
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA5	1.000	5/5
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA23	1.000	10/10
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA21	0.750	3/4
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	sul3	0.891	90/101
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	SUL	sul1	0.950	919/967
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	SUL	sul2	0.978	726/742
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	SUL	APH(6)-Id	0.977	749/767
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	APH6	CTX-M-55	0.800	4/5
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-15	0.873	965/1106
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-65	1.000	3/3
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	catI	0.967	500/517
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CATA	mphA	0.982	660/672
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	MPHA	CTX-M-106	0.000	0/0
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-11	0.667	2/3
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-14	0.760	19/25
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-2	1.000	1/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-27	1.000	5/5
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-3	0.429	3/7
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-40	0.000	0/0
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-62	1.000	2/2
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-63	0.000	0/0
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-9	0.000	0/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-98	1.000	1/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	arr-2	0.961	74/77
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	ARR	dfrA10	0.000	0/0
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA18	1.000	1/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA22	1.000	1/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA26	1.000	1/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA32	1.000	1/1
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA7	0.667	2/3
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	formA	0.750	3/4
+Escherichia coli	carbapenem:imipenem	formA	KPC-3	1.000	8/8
+Escherichia coli	carbapenem:imipenem	KPC	KPC-2	1.000	4/4
+Escherichia coli	carbapenem:imipenem	KPC	NDM-9	1.000	7/7
+Escherichia coli	carbapenem:imipenem	NDM	NDM-5	0.846	44/52
+Escherichia coli	carbapenem:imipenem	NDM	NDM-6	1.000	1/1
+Escherichia coli	carbapenem:imipenem	NDM	NDM-20	1.000	1/1
+Escherichia coli	carbapenem:imipenem	NDM	NDM-7	1.000	4/4
+Escherichia coli	carbapenem:imipenem	NDM	NDM-1	0.700	14/20
+Escherichia coli	carbapenem:imipenem	NDM	CARB-3	0.200	1/5
+Escherichia coli	carbapenem:imipenem	CARB	CMY-111	0.000	0/1
+Escherichia coli	carbapenem:imipenem	CMY	CMY-15	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CMY	CMY-153	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CMY	CMY-158	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CMY	CMY-17	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CMY	CMY-2	0.027	5/186
+Escherichia coli	carbapenem:imipenem	CMY	CMY-30	0.000	0/2
+Escherichia coli	carbapenem:imipenem	CMY	CMY-42	0.667	4/6
+Escherichia coli	carbapenem:imipenem	CMY	CMY-44	0.000	0/3
+Escherichia coli	carbapenem:imipenem	CMY	CMY-59	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CMY	CMY-6	1.000	7/7
+Escherichia coli	carbapenem:imipenem	CMY	CMY-61	0.000	0/1
+Escherichia coli	carbapenem:imipenem	CMY	CMY-7	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CMY	CTX-M-1	0.000	0/67
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-11	0.500	1/2
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-134	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-14	0.529	9/17
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-15	0.062	9/145
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-16	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-191	1.000	1/1
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-192	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-2	0.000	0/1
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-27	0.065	2/31
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-3	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-32	0.000	0/1
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-55	0.435	10/23
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-65	0.923	12/13
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-8	0.000	0/0
+Escherichia coli	carbapenem:imipenem	CTX	CTX-M-9	0.000	0/1
+Escherichia coli	carbapenem:imipenem	CTX	DHA-1	0.000	0/0
+Escherichia coli	carbapenem:imipenem	DHA	DHA-6	1.000	1/1
+Escherichia coli	carbapenem:imipenem	DHA	EC-13	0.000	0/76
+Escherichia coli	carbapenem:imipenem	EC	EC-15	0.272	46/169
+Escherichia coli	carbapenem:imipenem	EC	EC-18	0.093	14/151
+Escherichia coli	carbapenem:imipenem	EC	EC-19	0.062	5/81
+Escherichia coli	carbapenem:imipenem	EC	EC-5	0.014	10/696
+Escherichia coli	carbapenem:imipenem	EC	EC-8	0.023	5/219
+Escherichia coli	carbapenem:imipenem	EC	Escherichia coli ampC beta-lactamase	0.107	15/140
+Escherichia coli	carbapenem:imipenem	BLAEC	Escherichia coli ampC1 beta-lactamase	0.110	84/761
+Escherichia coli	carbapenem:imipenem	PBP4B	Escherichia coli ampH beta-lactamase	0.062	95/1528
+Escherichia coli	carbapenem:imipenem	AMPH	GES-2	0.000	0/0
+Escherichia coli	carbapenem:imipenem	GES	HERA-3	0.000	0/1
+Escherichia coli	carbapenem:imipenem	HERA	IMP-70	0.000	0/0
+Escherichia coli	carbapenem:imipenem	IMP	KPC-4	0.000	0/1
+Escherichia coli	carbapenem:imipenem	KPC	LAP-2	0.000	0/2
+Escherichia coli	carbapenem:imipenem	LAP	LEN-6	0.000	0/0
+Escherichia coli	carbapenem:imipenem	LEN	MOX-2	0.000	0/0
+Escherichia coli	carbapenem:imipenem	MOX	OXA-1	0.101	14/138
+Escherichia coli	carbapenem:imipenem	OXA-1 family	OXA-10	0.500	2/4
+Escherichia coli	carbapenem:imipenem	OXA-10 family	OXA-181	0.000	0/0
+Escherichia coli	carbapenem:imipenem	OXA-48 family	OXA-2	0.667	4/6
+Escherichia coli	carbapenem:imipenem	OXA-2 family	OXA-33	0.000	0/1
+Escherichia coli	carbapenem:imipenem	OXA-4 family	OXA-48	0.000	0/0
+Escherichia coli	carbapenem:imipenem	OXA-48 family	OXA-9	0.714	5/7
+Escherichia coli	carbapenem:imipenem	OXA-9 family	QnrA1	0.000	0/1
+Escherichia coli	carbapenem:imipenem	QNRA	QnrB1	0.000	0/0
+Escherichia coli	carbapenem:imipenem	QNRB	QnrB17	0.000	0/1
+Escherichia coli	carbapenem:imipenem	QNRB	QnrB19	0.000	0/2
+Escherichia coli	carbapenem:imipenem	QNRB	QnrB20	0.000	0/0
+Escherichia coli	carbapenem:imipenem	QNRB	QnrB4	0.000	0/0
+Escherichia coli	carbapenem:imipenem	QNRB	QnrB5	0.000	0/1
+Escherichia coli	carbapenem:imipenem	QNRB	QnrB7	0.000	0/0
+Escherichia coli	carbapenem:imipenem	QNRB	QnrD1	0.000	0/0
+Escherichia coli	carbapenem:imipenem	QNRD	QnrS1	0.327	16/49
+Escherichia coli	carbapenem:imipenem	QNRS	QnrS2	1.000	4/4
+Escherichia coli	carbapenem:imipenem	QNRS	QnrS4	0.000	0/0
+Escherichia coli	carbapenem:imipenem	QNRS	QnrVC4	0.000	0/1
+Escherichia coli	carbapenem:imipenem	QNRVC	SHV-12	0.200	2/10
+Escherichia coli	carbapenem:imipenem	SHV	SHV-2	0.000	0/3
+Escherichia coli	carbapenem:imipenem	SHV	SHV-22	0.000	0/0
+Escherichia coli	carbapenem:imipenem	SHV	SHV-30	0.000	0/1
+Escherichia coli	carbapenem:imipenem	SHV	SHV-48	0.000	0/16
+Escherichia coli	carbapenem:imipenem	SHV	SHV-5	0.000	0/1
+Escherichia coli	carbapenem:imipenem	SHV	TEM-1	0.010	1/104
+Escherichia coli	carbapenem:imipenem	TEM	TEM-10	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-116	1.000	2/2
+Escherichia coli	carbapenem:imipenem	TEM	TEM-117	1.000	1/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-122	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-135	0.000	0/4
+Escherichia coli	carbapenem:imipenem	TEM	TEM-141	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-15	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-171	0.500	1/2
+Escherichia coli	carbapenem:imipenem	TEM	TEM-176	0.000	0/3
+Escherichia coli	carbapenem:imipenem	TEM	TEM-192	0.273	3/11
+Escherichia coli	carbapenem:imipenem	TEM	TEM-198	0.087	44/508
+Escherichia coli	carbapenem:imipenem	TEM	TEM-206	0.000	0/0
+Escherichia coli	carbapenem:imipenem	TEM	TEM-210	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-214	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-215	0.000	0/0
+Escherichia coli	carbapenem:imipenem	TEM	TEM-225	0.000	0/3
+Escherichia coli	carbapenem:imipenem	TEM	TEM-237	0.000	0/0
+Escherichia coli	carbapenem:imipenem	TEM	TEM-240	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-29	0.000	0/0
+Escherichia coli	carbapenem:imipenem	TEM	TEM-30	0.000	0/6
+Escherichia coli	carbapenem:imipenem	TEM	TEM-31	0.000	0/0
+Escherichia coli	carbapenem:imipenem	TEM	TEM-33	0.667	2/3
+Escherichia coli	carbapenem:imipenem	TEM	TEM-34	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-35	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-40	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-54	0.185	10/54
+Escherichia coli	carbapenem:imipenem	TEM	TEM-59	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-7	0.750	6/8
+Escherichia coli	carbapenem:imipenem	TEM	TEM-73	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-79	0.000	0/0
+Escherichia coli	carbapenem:imipenem	TEM	TEM-81	0.000	0/1
+Escherichia coli	carbapenem:imipenem	TEM	TEM-84	0.000	0/14
+Escherichia coli	carbapenem:imipenem	TEM	TEM-9	0.000	0/2
+Escherichia coli	carbapenem:imipenem	TEM	VEB-5	0.000	0/1
+Escherichia coli	carbapenem:imipenem	VEB	WP7S18C02830	0.225	65/289
+Escherichia coli	carbapenem:imipenem	IS903B_family_transposase	formA	0.000	0/2
+Escherichia coli	carbapenem:imipenem	formA	mecC-type BlaZ	0.667	2/3
+Escherichia coli	carbapenem:meropenem	BLAZ	NDM-5	0.940	63/67
+Escherichia coli	carbapenem:meropenem	NDM	NDM-9	1.000	7/7
+Escherichia coli	carbapenem:meropenem	NDM	NDM-20	1.000	1/1
+Escherichia coli	carbapenem:meropenem	NDM	NDM-6	1.000	1/1
+Escherichia coli	carbapenem:meropenem	NDM	NDM-7	1.000	4/4
+Escherichia coli	carbapenem:meropenem	NDM	NDM-1	0.714	15/21
+Escherichia coli	carbapenem:meropenem	NDM	KPC-2	1.000	12/12
+Escherichia coli	carbapenem:meropenem	KPC	KPC-3	0.692	9/13
+Escherichia coli	carbapenem:meropenem	KPC	CARB-3	0.143	1/7
+Escherichia coli	carbapenem:meropenem	CARB	CMY-111	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CMY	CMY-15	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CMY	CMY-153	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CMY	CMY-158	0.000	0/2
+Escherichia coli	carbapenem:meropenem	CMY	CMY-17	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CMY	CMY-2	0.035	7/202
+Escherichia coli	carbapenem:meropenem	CMY	CMY-30	0.000	0/2
+Escherichia coli	carbapenem:meropenem	CMY	CMY-42	0.444	4/9
+Escherichia coli	carbapenem:meropenem	CMY	CMY-44	0.000	0/3
+Escherichia coli	carbapenem:meropenem	CMY	CMY-59	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CMY	CMY-6	1.000	8/8
+Escherichia coli	carbapenem:meropenem	CMY	CMY-61	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CMY	CMY-7	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CMY	CTX-M-1	0.000	0/74
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-11	0.500	1/2
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-134	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-14	0.464	13/28
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-15	0.106	21/198
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-16	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-191	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-192	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-2	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-27	0.038	2/53
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-3	0.000	0/0
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-32	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-55	0.333	11/33
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-65	0.933	14/15
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-8	0.000	0/1
+Escherichia coli	carbapenem:meropenem	CTX	CTX-M-9	0.000	0/4
+Escherichia coli	carbapenem:meropenem	CTX	DHA-1	0.000	0/2
+Escherichia coli	carbapenem:meropenem	DHA	DHA-6	1.000	1/1
+Escherichia coli	carbapenem:meropenem	DHA	EC-13	0.023	2/86
+Escherichia coli	carbapenem:meropenem	EC	EC-15	0.274	55/201
+Escherichia coli	carbapenem:meropenem	EC	EC-18	0.084	19/226
+Escherichia coli	carbapenem:meropenem	EC	EC-19	0.283	15/53
+Escherichia coli	carbapenem:meropenem	EC	EC-5	0.037	17/465
+Escherichia coli	carbapenem:meropenem	EC	EC-8	0.033	6/183
+Escherichia coli	carbapenem:meropenem	EC	Escherichia coli ampC beta-lactamase	0.108	17/158
+Escherichia coli	carbapenem:meropenem	BLAEC	Escherichia coli ampC1 beta-lactamase	0.129	113/875
+Escherichia coli	carbapenem:meropenem	PBP4B	Escherichia coli ampH beta-lactamase	0.095	131/1377
+Escherichia coli	carbapenem:meropenem	AMPH	GES-2	0.000	0/0
+Escherichia coli	carbapenem:meropenem	GES	HERA-3	0.000	0/2
+Escherichia coli	carbapenem:meropenem	HERA	IMP-70	0.000	0/0
+Escherichia coli	carbapenem:meropenem	IMP	KPC-4	0.000	0/1
+Escherichia coli	carbapenem:meropenem	KPC	LAP-2	0.000	0/3
+Escherichia coli	carbapenem:meropenem	LAP	LEN-6	0.000	0/0
+Escherichia coli	carbapenem:meropenem	LEN	MOX-2	0.000	0/0
+Escherichia coli	carbapenem:meropenem	MOX	OXA-1	0.146	23/158
+Escherichia coli	carbapenem:meropenem	OXA-1 family	OXA-10	0.800	4/5
+Escherichia coli	carbapenem:meropenem	OXA-10 family	OXA-181	0.000	0/1
+Escherichia coli	carbapenem:meropenem	OXA-48 family	OXA-2	1.000	4/4
+Escherichia coli	carbapenem:meropenem	OXA-2 family	OXA-33	0.000	0/0
+Escherichia coli	carbapenem:meropenem	OXA-4 family	OXA-48	0.000	0/0
+Escherichia coli	carbapenem:meropenem	OXA-48 family	OXA-9	0.833	5/6
+Escherichia coli	carbapenem:meropenem	OXA-9 family	QnrA1	0.000	0/0
+Escherichia coli	carbapenem:meropenem	QNRA	QnrB1	1.000	1/1
+Escherichia coli	carbapenem:meropenem	QNRB	QnrB17	0.000	0/1
+Escherichia coli	carbapenem:meropenem	QNRB	QnrB19	0.000	0/1
+Escherichia coli	carbapenem:meropenem	QNRB	QnrB20	0.000	0/0
+Escherichia coli	carbapenem:meropenem	QNRB	QnrB4	0.000	0/2
+Escherichia coli	carbapenem:meropenem	QNRB	QnrB5	0.000	0/1
+Escherichia coli	carbapenem:meropenem	QNRB	QnrB7	0.000	0/1
+Escherichia coli	carbapenem:meropenem	QNRB	QnrD1	0.000	0/1
+Escherichia coli	carbapenem:meropenem	QNRD	QnrS1	0.303	20/66
+Escherichia coli	carbapenem:meropenem	QNRS	QnrS2	1.000	4/4
+Escherichia coli	carbapenem:meropenem	QNRS	QnrS4	0.000	0/0
+Escherichia coli	carbapenem:meropenem	QNRS	QnrVC4	0.000	0/1
+Escherichia coli	carbapenem:meropenem	QNRVC	SHV-12	0.500	11/22
+Escherichia coli	carbapenem:meropenem	SHV	SHV-2	0.000	0/0
+Escherichia coli	carbapenem:meropenem	SHV	SHV-22	1.000	1/1
+Escherichia coli	carbapenem:meropenem	SHV	SHV-30	0.000	0/1
+Escherichia coli	carbapenem:meropenem	SHV	SHV-48	0.000	0/11
+Escherichia coli	carbapenem:meropenem	SHV	SHV-5	0.000	0/1
+Escherichia coli	carbapenem:meropenem	SHV	TEM-1	0.107	3/28
+Escherichia coli	carbapenem:meropenem	TEM	TEM-10	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-116	1.000	2/2
+Escherichia coli	carbapenem:meropenem	TEM	TEM-117	0.500	1/2
+Escherichia coli	carbapenem:meropenem	TEM	TEM-122	0.000	0/2
+Escherichia coli	carbapenem:meropenem	TEM	TEM-135	0.000	0/3
+Escherichia coli	carbapenem:meropenem	TEM	TEM-141	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-15	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-171	0.500	1/2
+Escherichia coli	carbapenem:meropenem	TEM	TEM-176	0.000	0/3
+Escherichia coli	carbapenem:meropenem	TEM	TEM-192	0.077	1/13
+Escherichia coli	carbapenem:meropenem	TEM	TEM-198	0.127	66/518
+Escherichia coli	carbapenem:meropenem	TEM	TEM-206	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-210	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-214	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-215	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-225	0.000	0/2
+Escherichia coli	carbapenem:meropenem	TEM	TEM-237	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-240	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-29	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-30	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-31	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-33	1.000	3/3
+Escherichia coli	carbapenem:meropenem	TEM	TEM-34	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-35	0.000	0/3
+Escherichia coli	carbapenem:meropenem	TEM	TEM-40	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-54	0.268	11/41
+Escherichia coli	carbapenem:meropenem	TEM	TEM-59	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-7	0.615	8/13
+Escherichia coli	carbapenem:meropenem	TEM	TEM-73	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	TEM-79	0.000	0/2
+Escherichia coli	carbapenem:meropenem	TEM	TEM-81	0.000	0/1
+Escherichia coli	carbapenem:meropenem	TEM	TEM-84	0.000	0/11
+Escherichia coli	carbapenem:meropenem	TEM	TEM-9	0.000	0/0
+Escherichia coli	carbapenem:meropenem	TEM	VEB-5	0.000	0/1
+Escherichia coli	carbapenem:meropenem	VEB	WP7S18C02830	0.248	82/330
+Escherichia coli	carbapenem:meropenem	IS903B_family_transposase	formA	0.818	9/11
+Escherichia coli	carbapenem:meropenem	formA	mecC-type BlaZ	0.333	2/6
+Escherichia coli	cephalosporin:ceftazidime	BLAZ	KPC-3	1.000	14/14
+Escherichia coli	cephalosporin:ceftazidime	KPC	KPC-4	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	KPC	KPC-2	1.000	6/6
+Escherichia coli	cephalosporin:ceftazidime	KPC	CMY-2	0.996	253/254
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-158	1.000	2/2
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-59	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-111	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-7	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-42	1.000	13/13
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-44	1.000	3/3
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-30	1.000	3/3
+Escherichia coli	cephalosporin:ceftazidime	CMY	TEM-225	1.000	4/4
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-141	1.000	2/2
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-9	1.000	2/2
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-10	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-15	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	NDM-1	1.000	10/10
+Escherichia coli	cephalosporin:ceftazidime	NDM	NDM-5	1.000	5/5
+Escherichia coli	cephalosporin:ceftazidime	NDM	NDM-9	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	NDM	NDM-7	1.000	4/4
+Escherichia coli	cephalosporin:ceftazidime	NDM	CTX-M-2	1.000	3/3
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-55	0.913	42/46
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-1	0.893	67/75
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-3	0.333	1/1
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-15	0.860	221/257
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-9	0.800	4/5
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-27	0.622	23/37
+Escherichia coli	cephalosporin:ceftazidime	CTX	SHV-12	0.957	22/23
+Escherichia coli	cephalosporin:ceftazidime	SHV	SHV-5	1.000	2/2
+Escherichia coli	cephalosporin:ceftazidime	SHV	SHV-30	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	SHV	SHV-2	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	SHV	DHA-1	0.750	3/4
+Escherichia coli	cephalosporin:ceftazidime	DHA	GES-2	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	GES	LEN-6	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	LEN	VEB-5	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	VEB	IMP-70	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	IMP	MOX-2	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	MOX	mecC-type BlaZ	1.000	2/2
+Escherichia coli	cephalosporin:ceftazidime	BLAZ	CARB-3	0.143	1/7
+Escherichia coli	cephalosporin:ceftazidime	CARB	CMY-15	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-153	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-17	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-6	1.000	8/8
+Escherichia coli	cephalosporin:ceftazidime	CMY	CMY-61	0.500	1/2
+Escherichia coli	cephalosporin:ceftazidime	CMY	CTX-M-11	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-134	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-14	0.327	18/55
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-16	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-191	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-192	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-32	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-65	0.667	2/3
+Escherichia coli	cephalosporin:ceftazidime	CTX	CTX-M-8	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	CTX	DHA-6	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	DHA	EC-13	0.317	40/126
+Escherichia coli	cephalosporin:ceftazidime	EC	EC-15	0.498	120/241
+Escherichia coli	cephalosporin:ceftazidime	EC	EC-18	0.326	90/276
+Escherichia coli	cephalosporin:ceftazidime	EC	EC-19	0.297	41/138
+Escherichia coli	cephalosporin:ceftazidime	EC	EC-5	0.197	208/1057
+Escherichia coli	cephalosporin:ceftazidime	EC	EC-8	0.407	147/361
+Escherichia coli	cephalosporin:ceftazidime	EC	Escherichia coli ampC beta-lactamase	0.400	78/195
+Escherichia coli	cephalosporin:ceftazidime	BLAEC	Escherichia coli ampC1 beta-lactamase	0.402	494/1229
+Escherichia coli	cephalosporin:ceftazidime	PBP4B	Escherichia coli ampH beta-lactamase	0.301	722/2399
+Escherichia coli	cephalosporin:ceftazidime	AMPH	HERA-3	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	HERA	LAP-2	0.500	2/4
+Escherichia coli	cephalosporin:ceftazidime	LAP	NDM-20	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	NDM	NDM-6	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	NDM	OXA-1	0.722	153/212
+Escherichia coli	cephalosporin:ceftazidime	OXA-1 family	OXA-10	1.000	2/2
+Escherichia coli	cephalosporin:ceftazidime	OXA-10 family	OXA-181	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	OXA-48 family	OXA-2	0.833	5/6
+Escherichia coli	cephalosporin:ceftazidime	OXA-2 family	OXA-33	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	OXA-4 family	OXA-48	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	OXA-48 family	OXA-9	1.000	8/8
+Escherichia coli	cephalosporin:ceftazidime	OXA-9 family	SHV-22	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	SHV	SHV-48	0.103	3/29
+Escherichia coli	cephalosporin:ceftazidime	SHV	TEM-1	0.055	7/127
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-116	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-117	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-122	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-135	0.889	8/9
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-171	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-176	0.000	0/3
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-192	0.571	8/14
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-198	0.319	262/821
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-206	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-210	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-214	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-215	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-237	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-240	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-29	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-30	0.222	2/9
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-31	0.000	0/0
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-33	0.833	5/6
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-34	0.000	0/2
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-35	0.667	2/3
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-40	0.000	0/2
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-54	0.279	19/68
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-59	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-7	0.750	6/8
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-73	0.000	0/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-79	0.500	1/2
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-81	1.000	1/1
+Escherichia coli	cephalosporin:ceftazidime	TEM	TEM-84	0.111	2/18
+Escherichia coli	cephalosporin:ceftazidime	TEM	WP7S18C02830	0.448	174/388
+Escherichia coli	cephalosporin:ceftazidime	IS903B_family_transposase	formA	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	formA	AAC(3)-IV	1.000	20/20
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-IId	0.965	191/198
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-IIe	0.962	150/156
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-VIa	0.962	25/26
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	rmtB	1.000	14/14
+Escherichia coli	aminoglycoside antibiotic:gentamicin	RMT	armA	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:gentamicin	RMT	rmtC	1.000	6/6
+Escherichia coli	aminoglycoside antibiotic:gentamicin	RMT	AF42200	1.000	8/8
+Escherichia coli	aminoglycoside antibiotic:gentamicin		EreA2	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	EREA	APH(2'')-IIa	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH2-DPRIME	aadA1-pm	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA16	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA8b	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA15	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	msrE	1.000	3/3
+Escherichia coli	aminoglycoside antibiotic:gentamicin	MSRE	formA	1.000	3/3
+Escherichia coli	aminoglycoside antibiotic:gentamicin	formA	mphE	1.000	3/3
+Escherichia coli	aminoglycoside antibiotic:gentamicin	MPHE	AAC(3)-IIg	1.000	3/3
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	AAC(3)-Ib	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC3	AAC(6')-IIc	1.000	3/3
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib'	0.750	6/8
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-Hangzhou	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-Suzhou	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr	0.581	133/229
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr4	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib-cr5	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib10	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib4	0.875	7/8
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ib7	0.100	1/10
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Im	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	AAC(6')-Ip	0.500	1/2
+Escherichia coli	aminoglycoside antibiotic:gentamicin	AAC6-PRIME	ACINNAV5704	0.248	183/737
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-DPRIME	ANT(2'')-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT2-DPRIME	ANT(3'')-IIa	0.261	24/92
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	ANT(4')-Ib	0.000	0/2
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT4-PRIME	ANT(6)-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT6	ANT(9)-Ia	0.333	2/6
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT9	APH(3'')-Ib	0.315	34/108
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-DPRIME	APH(3')-IIIa	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-IIa	0.824	14/17
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-Ia	0.462	92/199
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-VI	1.000	3/3
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(3')-VIb	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH3-PRIME	APH(4)-Ia	1.000	19/19
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH4	APH(6)-Ic	0.000	0/2
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH6	APH(6)-Id	0.247	203/823
+Escherichia coli	aminoglycoside antibiotic:gentamicin	APH6	EreB	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	EREB	Erm(42)	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ERM42	ErmA	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ERMA	ErmB	0.725	29/40
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ERMB	ErmC	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ERMC	LAP-2	0.250	1/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	LAP	aad(6)	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT6	aadA	0.323	110/341
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA12	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA17	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA2	0.552	95/172
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA22	1.000	5/5
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA23	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA24	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA25	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA3	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA4	0.000	0/2
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA5	0.406	211/520
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	aadA7	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ANT3-DPRIME	linG	0.765	13/17
+Escherichia coli	aminoglycoside antibiotic:gentamicin	LNUF	lnuF	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:gentamicin	LNUF	lnuG	0.400	2/5
+Escherichia coli	aminoglycoside antibiotic:gentamicin	LNUG	mphA	0.475	262/552
+Escherichia coli	aminoglycoside antibiotic:gentamicin	MPHA	mphB	0.190	4/21
+Escherichia coli	aminoglycoside antibiotic:gentamicin	MPHB	mphG	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	MPHG	AAC(6')-Ib-cr	0.980	99/101
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ip	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Im	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-cr4	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-Suzhou	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-cr5	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib'	1.000	8/8
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib4	1.000	10/10
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib7	1.000	4/4
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(3)-IId	0.924	97/105
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-Ib	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-IIe	0.944	67/71
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	ErmB	0.727	24/33
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ERMB	aadA2	0.623	33/53
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA8b	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA22	1.000	5/5
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	APH(3')-IIa	0.714	5/7
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(2'')-IIa	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH2-DPRIME	AF42200	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin		AAC(3)-IIg	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-IV	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	AAC(3)-VIa	0.333	1/3
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC3	AAC(6')-IIc	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib-Hangzhou	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	AAC(6')-Ib10	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	AAC6-PRIME	ACINNAV5704	0.228	75/329
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-DPRIME	ANT(2'')-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT2-DPRIME	ANT(3'')-IIa	0.043	1/23
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	ANT(4')-Ib	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT4-PRIME	ANT(6)-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT6	ANT(9)-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT9	APH(3'')-Ib	0.432	16/37
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-DPRIME	APH(3')-IIIa	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-Ia	0.389	21/54
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-VI	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(3')-VIb	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH3-PRIME	APH(4)-Ia	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH4	APH(6)-Ic	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH6	APH(6)-Id	0.255	93/364
+Escherichia coli	aminoglycoside antibiotic:tobramycin	APH6	EreA2	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	EREA	EreB	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	EREB	Erm(42)	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ERM42	ErmA	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ERMA	ErmC	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ERMC	LAP-2	0.000	0/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	LAP	aad(6)	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT6	aadA	0.312	35/112
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA1-pm	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA12	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA15	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA16	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA17	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA23	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA24	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA25	0.000	0/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA3	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA4	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA5	0.475	105/221
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	aadA7	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME	armA	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	RMT	formA	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	formA	linG	1.000	5/5
+Escherichia coli	aminoglycoside antibiotic:tobramycin	LNUF	lnuF	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	LNUF	lnuG	0.500	1/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	LNUG	mphA	0.508	135/266
+Escherichia coli	aminoglycoside antibiotic:tobramycin	MPHA	mphB	0.167	1/6
+Escherichia coli	aminoglycoside antibiotic:tobramycin	MPHB	mphE	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	MPHE	mphG	0.000	0/0
+Escherichia coli	aminoglycoside antibiotic:tobramycin	MPHG	msrE	1.000	1/1
+Escherichia coli	aminoglycoside antibiotic:tobramycin	MSRE	rmtB	1.000	2/2
+Escherichia coli	aminoglycoside antibiotic:tobramycin	RMT	rmtC	1.000	6/6
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	RMT	dfrA17	0.981	202/206
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA8	1.000	9/9
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA14	0.957	44/46
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA12	0.926	50/54
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA5	0.917	11/12
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA15	1.000	4/4
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA1	0.877	50/57
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA7	0.857	6/7
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	catI	0.933	70/75
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CATA	sul2	0.858	254/296
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	SUL	sul3	0.833	40/48
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	SUL	sul1	0.917	220/240
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	SUL	APH(6)-Id	0.807	213/264
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	APH6	CTX-M-1	0.797	59/74
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-11	1.000	1/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-134	0.000	0/0
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-14	0.500	4/8
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-15	0.704	114/162
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-16	0.000	0/0
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-2	0.000	0/0
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-27	0.586	17/29
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-3	0.000	0/0
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-32	0.222	2/9
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-55	0.750	9/12
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-65	1.000	1/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-8	0.000	0/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	CTX-M-9	0.000	0/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	CTX	arr-2	1.000	1/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	ARR	dfrA10	1.000	3/3
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA16	1.000	2/2
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA19	0.000	0/0
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA21	0.000	0/0
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA25	1.000	1/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	dfrA27	1.000	1/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	DFRA	formA	1.000	1/1
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulphamethoxazole	formA	mphA	0.864	140/162

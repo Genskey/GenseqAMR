@@ -1,0 +1,849 @@
+taxon	gf_L4	gf_L4_freq	gf_L4_CN	gf_L3	gf_L3_freq	gf_L3_CN	gt	gt_freq	gt_CN
+Klebsiella pneumoniae	ADEI	3072	1,2	ADEI	3072	1,2	Klebsiella pneumoniae acrA	3071	1,1
+Klebsiella pneumoniae	ADEI	3072	1,2	ADEI	3072	1,2	adeI	2	1,1
+Klebsiella pneumoniae	ADEI	3072	1,2	ADEI	3072	1,2	acrA	1	1,1
+Klebsiella pneumoniae	FABG	3071	1,1	FABG	3071	1,1	Escherichia coli fabG mutations conferring resistance to triclosan	3071	1,1
+Klebsiella pneumoniae	OMPK	3070	1,1	OMPK	3070	1,1	Klebsiella pneumoniae OmpK35	3070	1,1
+Klebsiella pneumoniae	PHOB	3069	1,2	PHOB	3069	1,2	Klebsiella mutant PhoP conferring antibiotic resistance to colistin	3069	1,2
+Klebsiella pneumoniae	ARNT	3069	1,2	ARNT	3069	1,2	ArnT	3069	1,1
+Klebsiella pneumoniae	ARNT	3069	1,2	ARNT	3069	1,2	E.coli arnT	1	1,1
+Klebsiella pneumoniae	OMPA	3069	1,1	OMPA	3069	1,1	OmpA	3069	1,1
+Klebsiella pneumoniae	LPTD	3068	1,2	LPTD	3068	1,2	LptD	3068	1,2
+Klebsiella pneumoniae	EPTB	3068	1,2	EPTB	3068	1,2	eptB	3068	1,1
+Klebsiella pneumoniae	EPTB	3068	1,2	EPTB	3068	1,2	E.coli eptB	1	1,1
+Klebsiella pneumoniae	RAMA	3068	1,1	RAMA	3068	1,1	E.coli ramA	3068	1,1
+Klebsiella pneumoniae	KPNF	3067	1,1	KPNF	3067	1,1	kpnF	3067	1,1
+Klebsiella pneumoniae	RPOB	3066	1,1	RPOB	3066	1,1	Escherichia coli rpoB mutants conferring resistance to rifampicin	3066	1,1
+Klebsiella pneumoniae	KPNH	3065	1,1	KPNH	3065	1,1	Klebsiella pneumoniae KpnH	3065	1,1
+Klebsiella pneumoniae	KPNO	3064	1,2	KPNO	3064	1,2	Klebsiella pneumoniae OmpK36	3064	1,2
+Klebsiella pneumoniae	FOSA	3063	1,2	FOSA	3063	1,2	FosA6	2684	1,2
+Klebsiella pneumoniae	FOSA	3063	1,2	FOSA	3063	1,2	FosA5	383	1,1
+Klebsiella pneumoniae	FOSA	3063	1,2	FOSA	3063	1,2	FosA7	72	1,1
+Klebsiella pneumoniae	FOSA	3063	1,2	FOSA	3063	1,2	FosA7.5	32	1,1
+Klebsiella pneumoniae	FOSA	3063	1,2	FOSA	3063	1,2	FosA3	6	1,1
+Klebsiella pneumoniae	KPN	3061	1,1	KPN	3061	1,1	Klebsiella pneumoniae KpnG	3061	1,1
+Klebsiella pneumoniae	OMP37	3061	1,2	OMP37	3061	1,2	Klebsiella pneumoniae OmpK37	3061	1,2
+Klebsiella pneumoniae	ACRR	3052	1,2	ACRR	3052	1,2	Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance	3052	1,1
+Klebsiella pneumoniae	ACRR	3052	1,2	ACRR	3052	1,2	Klebsiella aerogenes acrR with mutation conferring multidrug antibiotic resistance	1	1,1
+Klebsiella pneumoniae	KPNE	3047	1,1	KPNE	3047	1,1	kpnE	3047	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-28	751	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-12	542	1,8
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-182	458	1,3
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-1	205	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-53	101	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-40	95	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-67	73	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-77	71	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-76	67	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-27	62	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-187	57	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-13	57	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-212	51	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-30	37	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-24	36	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-215	34	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-5	30	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-99	29	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-33	29	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-26	26	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-155	25	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-172	18	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-36	18	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-190	14	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-75	13	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-11	12	1,3
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-217	9	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-185	7	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-223	6	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-119	6	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-60	6	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-143	6	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-101	6	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-65	6	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-71	5	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-52	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-59	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-72	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-205	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-124	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-108	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-161	4	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-82	3	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-41	3	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-2	3	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-142	3	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-32	3	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-220	3	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-15	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-62	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-141	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-120	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-171	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-225	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-74	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-207	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-44	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-37	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-19	2	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-69	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-125	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-202	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-224	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-146	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-63	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-100	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-14	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-189	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-45	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-121	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-200	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-116	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-106	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-133	1	1,1
+Klebsiella pneumoniae	SHV	2993	1,9	SHV	2993	1,9	SHV-193	1	1,1
+Klebsiella pneumoniae	OQXA	2965	1,2	OQXA	2965	1,2	oqxA	2965	1,2
+Klebsiella pneumoniae	OQXB	2960	1,2	OQXB	2960	1,2	oqxB	2960	1,2
+Klebsiella pneumoniae	A16S	2900	1,12	A16S	2900	1,12	Salmonella enterica 16S rRNA (rrsD) mutation conferring resistance to spectinomycin	2575	1,10
+Klebsiella pneumoniae	A16S	2900	1,12	A16S	2900	1,12	Escherichia coli 16S rRNA (rrsH) mutation conferring resistance to spectinomycin	470	1,3
+Klebsiella pneumoniae	A16S	2900	1,12	A16S	2900	1,12	Mycobacteroides chelonae 16S rRNA mutation conferring resistance to neomycin	1	1,1
+Klebsiella pneumoniae	TUFAB	2886	1,4	TUFAB	2886	1,4	Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa	2813	1,3
+Klebsiella pneumoniae	TUFAB	2886	1,4	TUFAB	2886	1,4	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	341	1,1
+Klebsiella pneumoniae	RAMR	2849	1,2	RAMR	2849	1,2	Klebsiella pneumoniae ramR mutants	2849	1,2
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr1	785	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr2	623	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr9	622	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr3	161	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr6	108	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr4	43	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr5	43	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr7	16	1,1
+Klebsiella pneumoniae	GYRA	2410	1,1	GYRA	2410	1,1	KPN_gyrA_Clr8	7	1,1
+Klebsiella pneumoniae	PARC	2410	1,1	PARC	2410	1,1	KPN_parC_Clr1	1611	1,1
+Klebsiella pneumoniae	PARC	2410	1,1	PARC	2410	1,1	KPN_parC_Clr4	668	1,1
+Klebsiella pneumoniae	PARC	2410	1,1	PARC	2410	1,1	KPN_parC_Clr2	112	1,1
+Klebsiella pneumoniae	PARC	2410	1,1	PARC	2410	1,1	KPN_parC_Clr3	17	1,1
+Klebsiella pneumoniae	GYRB	2409	1,2	GYRB	2409	1,2	KPN_gyrB_Clr3	1799	1,2
+Klebsiella pneumoniae	GYRB	2409	1,2	GYRB	2409	1,2	KPN_gyrB_Clr1	593	1,1
+Klebsiella pneumoniae	GYRB	2409	1,2	GYRB	2409	1,2	KPN_gyrB_Clr2	17	1,1
+Klebsiella pneumoniae	PARE	2409	1,1	PARE	2409	1,1	KPN_parE_Clr3	2175	1,1
+Klebsiella pneumoniae	PARE	2409	1,1	PARE	2409	1,1	KPN_parE_Clr1	218	1,1
+Klebsiella pneumoniae	PARE	2409	1,1	PARE	2409	1,1	KPN_parE_Clr2	16	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA14	1085	1,9
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA12	1029	1,3
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA1	114	1,2
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA27	66	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA15	32	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfr22	31	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA19	24	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA17	23	1,2
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA30	20	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA5	16	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA23	12	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA8	10	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA7	7	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA21	5	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA15b	5	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA35	2	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA18	2	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA26	1	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA22	1	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA16	1	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA32	1	1,1
+Klebsiella pneumoniae	DFRA	2288	1,9	DFRA	2288	1,9	dfrA10	1	1,1
+Klebsiella pneumoniae	SUL	2263	1,6	SUL	2263	1,5	sul1	1497	1,4	change_by_hand(1,5->1,6)
+Klebsiella pneumoniae	SUL	2263	1,6	SUL	2263	1,5	sul2	1080	1,3	change_by_hand
+Klebsiella pneumoniae	SUL	2263	1,6	SUL	2263	1,5	sul3	147	1,1	change_by_hand
+Klebsiella pneumoniae	MLS23S	2140	1,11	MLS23S	2140	1,11	Escherichia coli 23S rRNA with mutation conferring resistance to chloramphenicol	2137	1,11
+Klebsiella pneumoniae	MLS23S	2140	1,11	MLS23S	2140	1,11	Moraxella catarrhalis 23S rRNA with mutation conferring resistance to macrolide antibiotics	3	1,1
+Klebsiella pneumoniae	MLS23S	2140	1,11	MLS23S	2140	1,11	Streptococcus pneumoniae 23S rRNA mutation conferring resistance to macrolides and streptogramins antibiotics	2	1,1
+Klebsiella pneumoniae	IS903B_family_transposase	2131	1,41	IS903B_family_transposase	2131	1,41	WP7S18C02830	2131	1,41
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-9 family	876	1,3	OXA-9	876	1,3
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-1 family	754	1,3	OXA-1	748	1,3
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-1 family	754	1,3	OXA-140	7	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-48	110	1,2
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-232	56	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-181	36	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-245	22	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-162	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-244	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-48 family	226	1,2	OXA-163	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-10 family	43	1,2	OXA-10	40	1,2
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-10 family	43	1,2	OXA-928	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-10 family	43	1,2	OXA-16	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-10 family	43	1,2	OXA-663	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-10 family	43	1,2	OXA-827	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-2 family	18	1,1	OXA-2	18	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-24 family	2	1,1	OXA-24	2	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-51 family	2	1,1	OXA-83	1	1,1
+Klebsiella pneumoniae	OXA	1717	1,4	OXA-51 family	2	1,1	OXA-65	1	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib-cr	803	1,3
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib'	741	1,5
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib	40	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib-Hangzhou	32	1,2
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib4	15	1,2
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib10	9	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Il	8	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ip	7	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib-cr4	7	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-IIa	6	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-IIc	6	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-33	5	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib7	4	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib-Suzhou	3	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ia	2	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib-cr5	2	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ian	1	1,1
+Klebsiella pneumoniae	AAC6-PRIME	1633	1,6	AAC6-PRIME	1633	1,6	AAC(6')-Ib-cr7	1	1,1
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-15	1510	1,3	change_by_hand(1,3->1,6)
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-14	49	1,2	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-55	16	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-27	14	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-3	11	1,2	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-65	10	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-11	5	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-9	4	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-2	4	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-63	3	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-98	2	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-62	2	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-106	1	1,1	change_by_hand
+Klebsiella pneumoniae	CTX	1622	1,6	CTX	1622	1,3	CTX-M-40	1	1,1	change_by_hand
+Klebsiella pneumoniae	QACE	1501	1,4	QACE	1501	1,4	qacEdelta1	1486	1,4
+Klebsiella pneumoniae	QACE	1501	1,4	QACE	1501	1,4	qacE	28	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-198	883	1,4
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-54	368	1,3
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-192	131	1,2
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-1	32	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-141	14	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-122	13	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-79	6	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-7	6	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-84	4	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-29	2	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-15	2	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-35	2	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-117	2	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-150	1	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-63	1	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-40	1	1,1
+Klebsiella pneumoniae	TEM	1463	1,4	TEM	1463	1,4	TEM-34	1	1,1
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA2	1115	1,4	change_by_hand(1,6->1,16)
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA	316	1,3	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA24	105	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA16	64	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA1-pm	32	1,2	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	ANT(3'')-IIa	26	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA5	25	1,2	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA15	7	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA3	7	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA4	5	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA17	4	1,2	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA8b	3	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA12	2	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA13	1	1,1	change_by_hand
+Klebsiella pneumoniae	ANT3-DPRIME	1449	1,16	ANT3-DPRIME	1449	1,6	aadA11	1	1,1	change_by_hand
+Klebsiella pneumoniae	CATA	1137	1,3	CATA	1137	1,3	catI	825	1,3
+Klebsiella pneumoniae	CATA	1137	1,3	CATA	1137	1,3	catII from Escherichia coli K-12	327	1,1
+Klebsiella pneumoniae	CATA	1137	1,3	CATA	1137	1,3	catII	2	1,1
+Klebsiella pneumoniae	APH6	1103	1,3	APH6	1103	1,3	APH(6)-Id	1103	1,3
+Klebsiella pneumoniae	APH6	1103	1,3	APH6	1103	1,3	APH(6)-Ic	1	1,1
+Klebsiella pneumoniae	APH3-DPRIME	1100	1,3	APH3-DPRIME	1100	1,3	ACINNAV5704	991	1,2
+Klebsiella pneumoniae	APH3-DPRIME	1100	1,3	APH3-DPRIME	1100	1,3	APH(3'')-Ib	113	1,2
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-IIe	741	1,2
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-IId	179	1,1
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-IV	163	1,2
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-IIg	5	1,1
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-Ia	4	1,1
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-Ib	2	1,1
+Klebsiella pneumoniae	AAC3	1079	1,3	AAC3	1079	1,3	AAC(3)-VIa	1	1,1
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-2	705	1,4
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-3	360	1,4
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-9	3	1,1
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-8	3	1,1
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-4	3	1,1
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-14	1	1,1
+Klebsiella pneumoniae	KPC	1074	1,5	KPC	1074	1,5	KPC-7	1	1,1
+Klebsiella pneumoniae	MPHA	1069	1,2	MPHA	1069	1,2	mphA	1069	1,2
+Klebsiella pneumoniae	CATB	769	1,3	CATB	769	1,3	catB3	755	1,3
+Klebsiella pneumoniae	CATB	769	1,3	CATB	769	1,3	catB11	24	1,1
+Klebsiella pneumoniae	CATB	769	1,3	CATB	769	1,3	catB2	2	1,2
+Klebsiella pneumoniae	CATB	769	1,3	CATB	769	1,3	catB8	1	1,1
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APH(3')-Ia	731	1,5
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APH(3')-VI	27	1,2
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APH(3')-VIb	4	1,1
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APHA15	2	1,2
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APH(3')-Ib	2	1,1
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APH(3')-IIa	2	1,1
+Klebsiella pneumoniae	APH3-PRIME	765	1,5	APH3-PRIME	765	1,5	APH(3')-VIa	1	1,1
+Klebsiella pneumoniae	TETA	681	1,2	TETA	681	1,2	tet(A)	681	1,2
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB1	427	1,1
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB17	161	1,2
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB4	28	1,2
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB20	19	1,1
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB5	15	1,2
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB9	6	1,1
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB10	1	1,1
+Klebsiella pneumoniae	QNRB	652	1,2	QNRB	652	1,2	QnrB19	1	1,1
+Klebsiella pneumoniae	TETD	416	1,1	TETD	416	1,1	tet(D)	416	1,1
+Klebsiella pneumoniae	CMLA	242	1,2	CMLA	242	1,2	cmlA1	159	1,1
+Klebsiella pneumoniae	CMLA	242	1,2	CMLA	242	1,2	cmlA5	59	1,2
+Klebsiella pneumoniae	CMLA	242	1,2	CMLA	242	1,2	cmlA6	15	1,1
+Klebsiella pneumoniae	CMLA	242	1,2	CMLA	242	1,2	cmlA4	6	1,1
+Klebsiella pneumoniae	CMLA	242	1,2	CMLA	242	1,2	Salmonella enterica cmlA	3	1,1
+Klebsiella pneumoniae	ARR	199	1,3	ARR	199	1,3	arr-2	115	1,2
+Klebsiella pneumoniae	ARR	199	1,3	ARR	199	1,3	arr-3	89	1,2
+Klebsiella pneumoniae	ARR	199	1,3	ARR	199	1,3	arr-8	1	1,1
+Klebsiella pneumoniae	RMT	188	1,4	RMT	188	1,4	armA	103	1,4
+Klebsiella pneumoniae	RMT	188	1,4	RMT	188	1,4	rmtF	58	1,1
+Klebsiella pneumoniae	RMT	188	1,4	RMT	188	1,4	rmtB	31	1,1
+Klebsiella pneumoniae	RMT	188	1,4	RMT	188	1,4	rmtC	7	1,1
+Klebsiella pneumoniae	RMT	188	1,4	RMT	188	1,4	rmtH	1	1,1
+Klebsiella pneumoniae	RMT	188	1,4	RMT	188	1,4	rmtG	1	1,1
+Klebsiella pneumoniae	QNRS	187	1,2	QNRS	187	1,2	QnrS1	187	1,2
+Klebsiella pneumoniae	QACL	163	1,1	QACL	163	1,1	qacL	163	1,1
+Klebsiella pneumoniae	CRCB	162	1,1	CRCB	162	1,1	CrcB	162	1,1
+Klebsiella pneumoniae	APH4	161	1,2	APH4	161	1,2	APH(4)-Ia	161	1,2
+Klebsiella pneumoniae	BRP	135	1,2	BRP	135	1,2	BRP(MBL)	133	1,2
+Klebsiella pneumoniae	BRP	135	1,2	BRP	135	1,2	BLMT	2	1,1
+Klebsiella pneumoniae	NDM	133	1,2	NDM	133	1,2	NDM-1	116	1,2
+Klebsiella pneumoniae	NDM	133	1,2	NDM	133	1,2	NDM-5	13	1,1
+Klebsiella pneumoniae	NDM	133	1,2	NDM	133	1,2	NDM-7	4	1,1
+Klebsiella pneumoniae	MSRE	104	1,4	MSRE	104	1,4	msrE	104	1,4
+Klebsiella pneumoniae	MPHE	104	1,3	MPHE	104	1,3	mphE	104	1,3
+Klebsiella pneumoniae	ANT2-DPRIME	97	1,2	ANT2-DPRIME	97	1,2	AF42200	54	1,1
+Klebsiella pneumoniae	ANT2-DPRIME	97	1,2	ANT2-DPRIME	97	1,2	ANT(2'')-Ia	43	1,2
+Klebsiella pneumoniae	FLOR	83	1,2	FLOR	83	1,2	floR	70	1,1
+Klebsiella pneumoniae	FLOR	83	1,2	FLOR	83	1,2	cmlA9	15	1,1
+Klebsiella pneumoniae	FLOR	83	1,2	FLOR	83	1,2	pp-flo	2	1,1
+Klebsiella pneumoniae	LAP	67	1,1	LAP	67	1,1	LAP-2	52	1,1
+Klebsiella pneumoniae	LAP	67	1,1	LAP	67	1,1	LAP-1	15	1,1
+Klebsiella pneumoniae	ERMB	62	1,1	ERMB	62	1,1	ErmB	62	1,1
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-6	37	1,2
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-2	11	1,1
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-17	2	1,1
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-55	2	1,1
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-16	1	1,1
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-14	1	1,1
+Klebsiella pneumoniae	LEN	55	1,2	LEN	55	1,2	LEN-7	1	1,1
+Klebsiella pneumoniae	EREA	38	1,1	EREA	38	1,1	EreA2	37	1,1
+Klebsiella pneumoniae	EREA	38	1,1	EREA	38	1,1	EreA	1	1,1
+Klebsiella pneumoniae	SAT	37	1,1	SAT	37	1,1	sat-2	37	1,1
+Klebsiella pneumoniae	CMY	28	1,1	CMY	28	1,1	CMY-158	11	1,1
+Klebsiella pneumoniae	CMY	28	1,1	CMY	28	1,1	CMY-2	10	1,1
+Klebsiella pneumoniae	CMY	28	1,1	CMY	28	1,1	CMY-6	5	1,1
+Klebsiella pneumoniae	CMY	28	1,1	CMY	28	1,1	CMY-16	1	1,1
+Klebsiella pneumoniae	CMY	28	1,1	CMY	28	1,1	CMY-94	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-22	9	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-40	3	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-A-5	3	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-A-8	2	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-5	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-17	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-3	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-6	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-8	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-A-3	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-45	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-A-7	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-41	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-2	1	1,1
+Klebsiella pneumoniae	OKP	28	1,1	OKP	28	1,1	OKP-B-19	1	1,1
+Klebsiella pneumoniae	TETRM	27	1,1	TETRM	27	1,1	tetR0	27	1,1
+Klebsiella pneumoniae	TETB	27	1,1	TETB	27	1,1	tet(B)	27	1,1
+Klebsiella pneumoniae	DHA	26	1,2	DHA	26	1,2	DHA-1	22	1,2
+Klebsiella pneumoniae	DHA	26	1,2	DHA	26	1,2	DHA-7	2	1,1
+Klebsiella pneumoniae	DHA	26	1,2	DHA	26	1,2	DHA-15	1	1,1
+Klebsiella pneumoniae	DHA	26	1,2	DHA	26	1,2	DHA-6	1	1,1
+Klebsiella pneumoniae	MCR	23	1,1	mcr-9	10	1,1	mcr-9.1	10	1,1
+Klebsiella pneumoniae	MCR	23	1,1	mcr-3	10	1,1	mcr-3.1	7	1,1
+Klebsiella pneumoniae	MCR	23	1,1	mcr-3	10	1,1	mcr-3.4	3	1,1
+Klebsiella pneumoniae	MCR	23	1,1	mcr-1	2	1,1	mcr-1.1	2	1,1
+Klebsiella pneumoniae	MCR	23	1,1	mcr-8	1	1,1	mcr-8.1	1	1,1
+Klebsiella pneumoniae	CARB	21	1,1	CARB	21	1,1	CARB-3	19	1,1
+Klebsiella pneumoniae	CARB	21	1,1	CARB	21	1,1	CARB-1	2	1,1
+Klebsiella pneumoniae	FOX	18	1,2	FOX	18	1,2	FOX-5	18	1,2
+Klebsiella pneumoniae	QNRA	18	1,1	QNRA	18	1,1	QnrA1	13	1,1
+Klebsiella pneumoniae	QNRA	18	1,1	QNRA	18	1,1	QnrA7	5	1,1
+Klebsiella pneumoniae	VEB	16	1,1	VEB	16	1,1	VEB-1	16	1,1
+Klebsiella pneumoniae	TETG	15	1,1	TETG	15	1,1	tet(G)	15	1,1
+Klebsiella pneumoniae	formA	15	1,1	formA	15	1,1	formA	15	1,1
+Klebsiella pneumoniae	VIM	11	1,2	VIM	11	1,2	VIM-1	4	1,2
+Klebsiella pneumoniae	VIM	11	1,2	VIM	11	1,2	VIM-27	3	1,1
+Klebsiella pneumoniae	VIM	11	1,2	VIM	11	1,2	VIM-19	2	1,1
+Klebsiella pneumoniae	VIM	11	1,2	VIM	11	1,2	VIM-33	1	1,1
+Klebsiella pneumoniae	VIM	11	1,2	VIM	11	1,2	VIM-4	1	1,1
+Klebsiella pneumoniae	LNUF	11	1,1	LNUF	11	1,1	linG	11	1,1
+Klebsiella pneumoniae	DFRB	8	1,1	DFRB	8	1,1	dfrB3	7	1,1
+Klebsiella pneumoniae	DFRB	8	1,1	DFRB	8	1,1	dfrB1	1	1,1
+Klebsiella pneumoniae	SCO	7	1,1	SCO	7	1,1	SCO-1	7	1,1
+Klebsiella pneumoniae	ERM42	6	1,3	ERM42	6	1,3	Erm(42)	6	1,3
+Klebsiella pneumoniae	GES	5	1,2	GES	5	1,2	GES-2	3	1,1
+Klebsiella pneumoniae	GES	5	1,2	GES	5	1,2	GES-19	2	1,1
+Klebsiella pneumoniae	GES	5	1,2	GES	5	1,2	GES-26	1	1,1
+Klebsiella pneumoniae	GES	5	1,2	GES	5	1,2	GES-20	1	1,1
+Klebsiella pneumoniae	O23S	4	1,1	O23S	4	1,1	Staphylococcus aureus 23S rRNA with mutation conferring resistance to linezolid	4	1,1
+Klebsiella pneumoniae	IMP	4	1,2	IMP	4	1,2	IMP-4	3	1,2
+Klebsiella pneumoniae	IMP	4	1,2	IMP	4	1,2	IMP-15	1	1,1
+Klebsiella pneumoniae	ABEM	3	1,1	ABEM	3	1,1	abeM	3	1,1
+Klebsiella pneumoniae	TETM	3	1,1	TETM	3	1,1	tetM	3	1,1
+Klebsiella pneumoniae	LPS	3	1,1	LPS	3	1,1	LpsB	3	1,1
+Klebsiella pneumoniae	TETW	3	1,1	TETW	3	1,1	tet(W/N/W)	2	1,1
+Klebsiella pneumoniae	TETW	3	1,1	TETW	3	1,1	tet(W)	1	1,1
+Klebsiella pneumoniae	MEFB	3	1,1	MEFB	3	1,1	mef(B)	3	1,1
+Klebsiella pneumoniae	ADEH	2	1,1	ADEH	2	1,1	adeH	2	1,1
+Klebsiella pneumoniae	EPTA	2	1,1	EPTA	2	1,1	eptA	2	1,1
+Klebsiella pneumoniae	ADEG	2	1,1	ADEG	2	1,1	adeG	2	1,1
+Klebsiella pneumoniae	MGRR	2	1,1	MGRR	2	1,1	E.coli mgrR	2	1,1
+Klebsiella pneumoniae	AMVA	2	1,1	AMVA	2	1,1	amvA	2	1,1
+Klebsiella pneumoniae	LMRP	2	1,1	LMRP	2	1,1	lmrP	2	1,1
+Klebsiella pneumoniae	ACRE	2	1,1	ACRE	2	1,1	acrE/envC	2	1,1
+Klebsiella pneumoniae	LPXC	2	1,1	LPXC	2	1,1	LpxC	2	1,1
+Klebsiella pneumoniae	ADEL	2	1,1	ADEL	2	1,1	adeL	2	1,1
+Klebsiella pneumoniae	ADEJ	2	1,1	ADEJ	2	1,1	adeJ	2	1,1
+Klebsiella pneumoniae	NFSA	2	1,1	NFSA	2	1,1	nfsA	2	1,1
+Klebsiella pneumoniae	OMPT	2	1,1	OMPT	2	1,1	E.coli ompT	2	1,1
+Klebsiella pneumoniae	EREB	2	1,1	EREB	2	1,1	EreB	2	1,1
+Klebsiella pneumoniae	AMPH	2	1,1	AMPH	2	1,1	Escherichia coli ampH beta-lactamase	2	1,1
+Klebsiella pneumoniae	ADEK	2	1,1	ADEK	2	1,1	adeK	2	1,1
+Klebsiella pneumoniae	UHPA	2	1,1	UHPA	2	1,1	Escherichia coli UhpA with mutation conferring resistance to fosfomycin	2	1,1
+Klebsiella pneumoniae	ADEF	2	1,1	ADEF	2	1,1	adeF	2	1,1
+Klebsiella pneumoniae	ADC	2	1,1	ADC	2	1,1	ADC-56	1	1,1
+Klebsiella pneumoniae	ADC	2	1,1	ADC	2	1,1	ADC-214	1	1,1
+Klebsiella pneumoniae	MDTN	2	1,1	MDTN	2	1,1	mdtN/yjcR	2	1,1
+Klebsiella pneumoniae	LPXA	2	1,1	LPXA	2	1,1	LpxA	2	1,1
+Klebsiella pneumoniae	FOLP	2	1,1	FOLP	2	1,1	Streptococcus pyogenes folP with mutation conferring resistance to sulfonamides	2	1,1
+Klebsiella pneumoniae	GADX	2	1,1	GADX	2	1,1	gadX	2	1,1
+Klebsiella pneumoniae	ABES	2	1,1	ABES	2	1,1	abeS	2	1,1
+Klebsiella pneumoniae	MLAF	1	1,1	MLAF	1	1,1	mlaF	1	1,1
+Klebsiella pneumoniae	EVGA	1	1,1	EVGA	1	1,1	evgA	1	1,1
+Klebsiella pneumoniae	EC	1	1,1	EC	1	1,1	EC-5	1	1,1
+Klebsiella pneumoniae	EMRK	1	1,1	EMRK	1	1,1	emrK	1	1,1
+Klebsiella pneumoniae	PMRA	1	1,1	PMRA	1	1,1	E.coli PmrA	1	1,1
+Klebsiella pneumoniae	LPXM	1	1,1	LPXM	1	1,1	E.coli lpxM	1	1,1
+Klebsiella pneumoniae	SOXS	1	1,1	SOXS	1	1,1	Escherichia coli soxS with mutation conferring antibiotic resistance	1	1,1
+Klebsiella pneumoniae	EMRY	1	1,1	EMRY	1	1,1	emrY	1	1,1
+Klebsiella pneumoniae	QNRVC	1	1,1	QNRVC	1	1,1	QnrVC4	1	1,1
+Klebsiella pneumoniae	MSBA	1	1,1	MSBA	1	1,1	msbA	1	1,1
+Klebsiella pneumoniae	ADER	1	1,1	ADER	1	1,1	adeR	1	1,1
+Klebsiella pneumoniae	MDTF	1	1,1	MDTF	1	1,1	mdtF/yhiV	1	1,1
+Klebsiella pneumoniae	MPHB	1	1,1	MPHB	1	1,1	mphB	1	1,1
+Klebsiella pneumoniae	EVGS	1	1,1	EVGS	1	1,1	evgS	1	1,1
+Klebsiella pneumoniae	ADEC	1	1,1	ADEC	1	1,1	adeC	1	1,1
+Klebsiella pneumoniae	PMRB	1	1,1	PMRB	1	1,1	E.coli PmrB	1	1,1
+Klebsiella pneumoniae	TETC	1	1,1	TETC	1	1,1	tet(C)	1	1,1
+Klebsiella pneumoniae	LAMB	1	1,1	LAMB	1	1,1	Escherichia coli LamB	1	1,1
+Klebsiella pneumoniae	QNRE	1	1,1	QNRE	1	1,1	QnrE1	1	1,1
+Klebsiella pneumoniae	FABI	1	1,1	FABI	1	1,1	fabI	1	1,1
+Klebsiella pneumoniae	ERMA	1	1,1	ERMA	1	1,1	ErmA	1	1,1
+Klebsiella pneumoniae	ADEN	1	1,1	ADEN	1	1,1	adeN	1	1,1
+Klebsiella pneumoniae	MIPA	1	1,1	MIPA	1	1,1	Escherichia coli mipA	1	1,1
+Klebsiella pneumoniae	PHOQ	1	1,1	PHOQ	1	1,1	E.coli PhoQ	1	1,1
+Klebsiella pneumoniae	DA_C99	1	1,1	DA_C99	1	1,1	mgrB	1	1,1
+Klebsiella pneumoniae	MDTG	1	1,1	MDTG	1	1,1	mdtG	1	1,1
+Klebsiella pneumoniae	ADEB	1	1,1	ADEB	1	1,1	adeB	1	1,1
+Klebsiella pneumoniae	MDTH	1	1,1	MDTH	1	1,1	mdtH	1	1,1
+Klebsiella pneumoniae	MDTM	1	1,1	MDTM	1	1,1	mdtM/yjiO	1	1,1
+Klebsiella pneumoniae	TETX	1	1,1	TETX	1	1,1	Tet(X6)	1	1,1
+Klebsiella pneumoniae	EMRR	1	1,1	EMRR	1	1,1	emrR	1	1,1
+Klebsiella pneumoniae	PBP4B	1	1,1	PBP4B	1	1,1	Escherichia coli ampC1 beta-lactamase	1	1,1
+Klebsiella pneumoniae	ADEA	1	1,1	ADEA	1	1,1	adeA	1	1,1
+Klebsiella pneumoniae	ANT9	1	1,1	ANT9	1	1,1	ANT(9)-Ia	1	1,1
+Klebsiella pneumoniae	AAC2-PRIME	1	1,1	AAC2-PRIME	1	1,1	AAC(2')-IIa	1	1,1
+Klebsiella pneumoniae	UGD	1	1,1	UGD	1	1,1	ugd	1	1,1
+Klebsiella pneumoniae	GADW	1	1,1	GADW	1	1,1	gadW	1	1,1
+Klebsiella pneumoniae	ADES	1	1,1	ADES	1	1,1	adeS	1	1,1
+Klebsiella pneumoniae	MDTE	1	1,1	MDTE	1	1,1	mdtE/yhiU	1	1,1
+Escherichia coli	TOLC	4721	1,2	TOLC	4721	1,2	TolC	4721	1,2
+Escherichia coli	MLAF	4721	1,2	MLAF	4721	1,2	mlaF	4721	1,2
+Escherichia coli	FOLP	4721	1,2	FOLP	4721	1,2	Escherichia coli folP with mutation conferring resistance to sulfonamides	4721	1,2
+Escherichia coli	GYRA	4721	1,2	GYRA	4721	1,2	E.coli_gyrA_Clr1	2859	1,1
+Escherichia coli	GYRA	4721	1,2	GYRA	4721	1,2	E.coli_gyrA_Clr2	941	1,1
+Escherichia coli	GYRA	4721	1,2	GYRA	4721	1,2	Escherichia coli gyrA with mutation conferring resistance to triclosan	845	1,1
+Escherichia coli	GYRA	4721	1,2	GYRA	4721	1,2	Shigella flexneri gyrA conferring resistance to fluoroquinolones	116	1,1
+Escherichia coli	GYRA	4721	1,2	GYRA	4721	1,2	E.coli_gyrA_Clr3	52	1,1
+Escherichia coli	GYRA	4721	1,2	GYRA	4721	1,2	Staphylococcus aureus gyrA conferring resistance to fluoroquinolones	2	1,1
+Escherichia coli	PARC	4721	1,2	PARC	4721	1,2	E.coli_parC_Clr1	2812	1,1
+Escherichia coli	PARC	4721	1,2	PARC	4721	1,2	Shigella flexneri parC conferring resistance to fluoroquinolones	574	1,1
+Escherichia coli	PARC	4721	1,2	PARC	4721	1,2	E.coli_parC_Clr3	558	1,1
+Escherichia coli	PARC	4721	1,2	PARC	4721	1,2	E.coli_parC_Clr2	406	1,1
+Escherichia coli	PARC	4721	1,2	PARC	4721	1,2	Escherichia coli parC conferring resistance to fluoroquinolones	387	1,1
+Escherichia coli	PARC	4721	1,2	PARC	4721	1,2	E.coli_parC_Clr4	76	1,1
+Escherichia coli	PARE	4721	1,2	PARE	4721	1,2	E.coli_parE_Clr1	3254	1,1
+Escherichia coli	PARE	4721	1,2	PARE	4721	1,2	Escherichia coli parE conferring resistance to fluoroquinolones	1154	1,2
+Escherichia coli	PARE	4721	1,2	PARE	4721	1,2	E.coli_parE_Clr4	253	1,1
+Escherichia coli	PARE	4721	1,2	PARE	4721	1,2	E.coli_parE_Clr2	92	1,1
+Escherichia coli	PARE	4721	1,2	PARE	4721	1,2	E.coli_parE_Clr3	49	1,1
+Escherichia coli	PARE	4721	1,2	PARE	4721	1,2	E.coli_parE_Clr5	1	1,1
+Escherichia coli	LPXA	4721	1,2	LPXA	4721	1,2	E.coli lpxA	4721	1,2
+Escherichia coli	MLAD	4721	1,2	MLAD	4721	1,2	mlaD	4721	1,2
+Escherichia coli	LPXC	4720	1,2	LPXC	4720	1,2	E.coli lpxC	4720	1,2
+Escherichia coli	CRP	4720	1,2	CRP	4720	1,2	CRP	4720	1,2
+Escherichia coli	BACA	4720	1,2	BACA	4720	1,2	bacA	4720	1,2
+Escherichia coli	RPOB	4720	1,2	RPOB	4720	1,2	Escherichia coli rpoB mutants conferring resistance to rifampicin	4720	1,2
+Escherichia coli	RPOB	4720	1,2	RPOB	4720	1,2	Staphylococcus aureus rpoB mutants conferring resistance to daptomycin	2	1,1
+Escherichia coli	CYAA	4720	1,2	CYAA	4720	1,2	Escherichia coli cyaA with mutation conferring resistance to fosfomycin	4720	1,2
+Escherichia coli	MURA	4719	1,2	MURA	4719	1,2	Escherichia coli murA with mutation conferring resistance to fosfomycin	4719	1,2
+Escherichia coli	MURA	4719	1,2	MURA	4719	1,2	Staphylococcus aureus murA with mutation conferring resistance to fosfomycin	2	1,1
+Escherichia coli	PTSL	4719	1,2	PTSL	4719	1,2	Escherichia coli PtsI with mutation conferring resistance to fosfomycin	4719	1,2
+Escherichia coli	GLPT	4719	1,2	GLPT	4719	1,2	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	4719	1,2
+Escherichia coli	GLPT	4719	1,2	GLPT	4719	1,2	Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin	1	1,1
+Escherichia coli	MICA	4719	1,2	MICA	4719	1,2	E.coli micA	4719	1,2
+Escherichia coli	ADEI	4718	1,2	ADEI	4718	1,2	acrA	4718	1,2
+Escherichia coli	FABG	4718	1,2	FABG	4718	1,2	Escherichia coli fabG mutations conferring resistance to triclosan	4718	1,2
+Escherichia coli	FABI	4718	1,2	FABI	4718	1,2	fabI	4718	1,2
+Escherichia coli	BAER	4718	1,2	BAER	4718	1,2	baeR	4718	1,2
+Escherichia coli	MSBA	4718	1,2	MSBA	4718	1,2	msbA	4718	1,2
+Escherichia coli	KPN	4718	1,2	KPN	4718	1,2	emrB	4718	1,2
+Escherichia coli	CPXA	4718	1,2	CPXA	4718	1,2	cpxA	4718	1,2
+Escherichia coli	RAMA	4717	1,2	RAMA	4717	1,2	E.coli ramA	4717	1,2
+Escherichia coli	ACRB	4717	1,2	ACRB	4717	1,2	acrB	4717	1,2
+Escherichia coli	MDTB	4717	1,2	MDTB	4717	1,2	mdtB/yegN	4717	1,2
+Escherichia coli	PHOP	4717	1,2	PHOP	4717	1,2	E.coli PhoP	4717	1,2
+Escherichia coli	MDTC	4717	1,2	MDTC	4717	1,2	mdtC/yegO	4717	1,2
+Escherichia coli	MIPA	4717	1,2	MIPA	4717	1,2	Escherichia coli mipA	4717	1,2
+Escherichia coli	HNS	4716	1,2	HNS	4716	1,2	H-NS	4716	1,2
+Escherichia coli	YOGI	4716	1,2	YOGI	4716	1,2	YojI	4716	1,2
+Escherichia coli	LPXM	4716	1,2	LPXM	4716	1,2	E.coli lpxM	4716	1,2
+Escherichia coli	SOXS	4715	1,2	SOXS	4715	1,2	Escherichia coli soxS with mutation conferring antibiotic resistance	4715	1,2
+Escherichia coli	AMPH	4715	1,2	AMPH	4715	1,2	Escherichia coli ampH beta-lactamase	4715	1,2
+Escherichia coli	LAMB	4715	1,2	LAMB	4715	1,2	Escherichia coli LamB	4715	1,2
+Escherichia coli	MDFA	4715	1,2	MDFA	4715	1,2	Escherichia coli mdfA	4715	1,2
+Escherichia coli	PMRD	4714	1,2	PMRD	4714	1,2	E.coli PmrD	4714	1,2
+Escherichia coli	PHOQ	4714	1,2	PHOQ	4714	1,2	E.coli PhoQ	4714	1,2
+Escherichia coli	MDTH	4714	1,2	MDTH	4714	1,2	mdtH	4714	1,2
+Escherichia coli	PGBB	4714	1,2	PGBB	4714	1,2	E.coli pgpB	4714	1,2
+Escherichia coli	ACRD	4714	1,2	ACRD	4714	1,2	acrD/yffA	4714	1,2
+Escherichia coli	EPTB	4713	1,3	EPTB	4713	1,3	E.coli eptB	4713	1,3
+Escherichia coli	EMRA	4712	1,2	EMRA	4712	1,2	emrA	4712	1,2
+Escherichia coli	KDPE	4712	1,2	KDPE	4712	1,2	kdpE	4712	1,2
+Escherichia coli	PMRF	4712	1,2	PMRF	4712	1,2	PmrF	4712	1,2
+Escherichia coli	EMRR	4711	1,2	EMRR	4711	1,2	emrR	4711	1,2
+Escherichia coli	UHPA	4710	1,2	UHPA	4710	1,2	Escherichia coli UhpA with mutation conferring resistance to fosfomycin	4710	1,2
+Escherichia coli	DA_C99	4710	1,2	DA_C99	4710	1,2	mgrB	4710	1,2
+Escherichia coli	ARNT	4710	1,2	ARNT	4710	1,2	E.coli arnT	4710	1,2
+Escherichia coli	MDTG	4706	1,2	MDTG	4706	1,2	mdtG	4706	1,2
+Escherichia coli	MDTE	4706	1,2	MDTE	4706	1,2	mdtE/yhiU	4706	1,2
+Escherichia coli	MDTA	4704	1,2	MDTA	4704	1,2	mdtA/yegM	4704	1,2
+Escherichia coli	BAES	4702	1,2	BAES	4702	1,2	baeS	4702	1,2
+Escherichia coli	SOXR	4702	1,2	SOXR	4702	1,2	Escherichia coli soxR with mutation conferring antibiotic resistance	4702	1,2
+Escherichia coli	MDTF	4698	1,2	MDTF	4698	1,2	mdtF/yhiV	4698	1,2
+Escherichia coli	MARR	4697	1,2	MARR	4697	1,2	marR	4697	1,2
+Escherichia coli	MDTO	4696	1,2	MDTO	4696	1,2	mdtO	4696	1,2
+Escherichia coli	MGRR	4696	1,2	MGRR	4696	1,2	E.coli mgrR	4696	1,2
+Escherichia coli	MARA	4696	1,2	MARA	4696	1,2	marA	4696	1,2
+Escherichia coli	PMRA	4695	1,2	PMRA	4695	1,2	E.coli PmrA	4695	1,2
+Escherichia coli	PMRB	4695	1,2	PMRB	4695	1,2	E.coli PmrB	4695	1,2
+Escherichia coli	MDTP	4695	1,2	MDTP	4695	1,2	mdtP	4695	1,2
+Escherichia coli	EPTA	4695	1,2	EPTA	4695	1,2	eptA	4695	1,2
+Escherichia coli	UHPT	4695	1,2	UHPT	4695	1,2	Escherichia coli UhpT with mutation conferring resistance to fosfomycin	4695	1,2
+Escherichia coli	UHPT	4695	1,2	UHPT	4695	1,2	Staphylococcus aureus UhpT with mutation conferring resistance to fosfomycin	2	1,1
+Escherichia coli	OMPFB	4695	1,2	OMPFB	4695	1,2	Escherichia coli ompF with mutation conferring resistance to beta-lactam antibiotics	4695	1,2
+Escherichia coli	GADW	4694	1,4	GADW	4694	1,4	gadW	4694	1,4
+Escherichia coli	MDTN	4689	1,2	MDTN	4689	1,2	mdtN/yjcR	4689	1,2
+Escherichia coli	KPNO	4688	1,2	KPNO	4688	1,2	porin OmpC	4688	1,2
+Escherichia coli	ACRR	4685	1,2	ACRR	4685	1,2	acrR/ybaH	4685	1,2
+Escherichia coli	GADX	4685	1,2	GADX	4685	1,2	gadX	4685	1,2
+Escherichia coli	NFSA	4680	1,2	NFSA	4680	1,2	nfsA	4680	1,2
+Escherichia coli	ACRF	4678	1,2	ACRF	4678	1,2	acrF/envD	4678	1,2
+Escherichia coli	ACRE	4677	1,2	ACRE	4677	1,2	acrE/envC	4677	1,2
+Escherichia coli	EMRY	4666	1,2	EMRY	4666	1,2	emrY	4666	1,2
+Escherichia coli	ACRS	4666	1,2	ACRS	4666	1,2	AcrS	4666	1,2
+Escherichia coli	EMRK	4662	1,2	EMRK	4662	1,2	emrK	4662	1,2
+Escherichia coli	EVGA	4642	1,4	EVGA	4642	1,4	evgA	4642	1,4
+Escherichia coli	EVGS	4622	1,2	EVGS	4622	1,2	evgS	4622	1,2
+Escherichia coli	A16S	4368	1,8	A16S	4368	1,8	Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to gentamicin C	2593	1,7
+Escherichia coli	A16S	4368	1,8	A16S	4368	1,8	Escherichia coli 16S rRNA (rrsH) mutation conferring resistance to spectinomycin	1088	1,7
+Escherichia coli	A16S	4368	1,8	A16S	4368	1,8	Escherichia coli 16S rRNA (rrsC) mutation conferring resistance to kasugamicin	804	1,7
+Escherichia coli	A16S	4368	1,8	A16S	4368	1,8	Salmonella enterica 16S rRNA (rrsD) mutation conferring resistance to spectinomycin	1	1,1
+Escherichia coli	EC	4319	1,2	EC	4319	1,2	EC-5	2079	1,2
+Escherichia coli	EC	4319	1,2	EC	4319	1,2	EC-8	663	1,2
+Escherichia coli	EC	4319	1,2	EC	4319	1,2	EC-18	590	1,2
+Escherichia coli	EC	4319	1,2	EC	4319	1,2	EC-15	493	1,2
+Escherichia coli	EC	4319	1,2	EC	4319	1,2	EC-13	264	1,2
+Escherichia coli	EC	4319	1,2	EC	4319	1,2	EC-19	230	1,2
+Escherichia coli	TUFAB	3906	1,6	TUFAB	3906	1,6	Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa	3586	1,4
+Escherichia coli	TUFAB	3906	1,6	TUFAB	3906	1,6	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	675	1,2
+Escherichia coli	DEDA	3901	1,2	DEDA	3901	1,2	E.coli dedA	3901	1,2
+Escherichia coli	MLS23S	3708	1,10	MLS23S	3708	1,10	Escherichia coli 23S rRNA with mutation conferring resistance to chloramphenicol	3708	1,10
+Escherichia coli	MLS23S	3708	1,10	MLS23S	3708	1,10	Streptococcus pneumoniae 23S rRNA mutation conferring resistance to macrolides and streptogramins antibiotics	1	1,1
+Escherichia coli	GYRB	3521	1,2	GYRB	3521	1,2	E.coli_gyrB_Clr1	3438	1,2
+Escherichia coli	GYRB	3521	1,2	GYRB	3521	1,2	E.coli_gyrB_Clr2	83	1,1
+Escherichia coli	UGD	3520	1,2	UGD	3520	1,2	ugd	3520	1,2
+Escherichia coli	MVRC	3497	1,4	MVRC	3497	1,4	emrE/mvrC	3497	1,4
+Escherichia coli	MDTM	3302	1,2	MDTM	3302	1,2	mdtM/yjiO	3302	1,2
+Escherichia coli	OMPT	3105	1,4	OMPT	3105	1,4	E.coli ompT	3105	1,4
+Escherichia coli	SUL	2507	1,16	SUL	2507	1,6	sul2	1732	1,3	change_by_hand(1,6->1,16)
+Escherichia coli	SUL	2507	1,16	SUL	2507	1,6	sul1	1410	1,5	change_by_hand
+Escherichia coli	SUL	2507	1,16	SUL	2507	1,6	sul3	215	1,2	change_by_hand
+Escherichia coli	PBP4B	2445	1,2	PBP4B	2445	1,2	Escherichia coli ampC1 beta-lactamase	2445	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-198	1554	1,4
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-1	229	1,5
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-54	161	1,3
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-84	44	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-7	26	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-192	25	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-135	13	1,7
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-30	11	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-33	7	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-35	7	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-141	6	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-225	6	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-176	5	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-122	4	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-116	4	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-73	4	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-171	3	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-117	3	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-10	3	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-9	2	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-15	2	1,2
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-34	2	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-40	2	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-79	2	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-215	2	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-206	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-59	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-31	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-210	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-237	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-81	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-214	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-29	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-70	1	1,1
+Escherichia coli	TEM	2116	1,7	TEM	2116	1,7	TEM-240	1	1,1
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA17	894	1,4	change_by_hand(1,8->1,9)
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA1	416	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA14	271	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA12	246	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA5	134	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA7	84	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA8	56	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	DfrA36	37	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA27	16	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA15	7	1,1	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA19	6	1,1	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA25	5	1,1	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA10	5	1,2	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA16	4	1,1	change_by_hand
+Escherichia coli	DFRA	2039	1,9	DFRA	2039	1,8	dfrA21	4	1,1	change_by_hand
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA5	842	1,4
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA	629	1,4
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA2	306	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	ANT(3'')-IIa	184	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA16	11	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA24	9	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA22	9	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA1-pm	6	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA17	5	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA4	4	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA8b	4	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA7	4	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA3	3	1,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA15	2	2,2
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA13	1	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA23	1	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA12	1	1,1
+Escherichia coli	ANT3-DPRIME	1728	1,6	ANT3-DPRIME	1728	1,6	aadA25	1	1,1
+Escherichia coli	APH3-DPRIME	1604	1,3	APH3-DPRIME	1604	1,3	ACINNAV5704	1389	1,3
+Escherichia coli	APH3-DPRIME	1604	1,3	APH3-DPRIME	1604	1,3	APH(3'')-Ib	216	1,2
+Escherichia coli	APH6	1580	1,3	APH6	1580	1,3	APH(6)-Id	1579	1,3
+Escherichia coli	APH6	1580	1,3	APH6	1580	1,3	APH(6)-Ic	3	1,1
+Escherichia coli	QACE	1425	1,5	QACE	1425	1,5	qacEdelta1	1406	1,5
+Escherichia coli	QACE	1425	1,5	QACE	1425	1,5	qacE	20	1,2
+Escherichia coli	TETA	1369	1,5	TETA	1369	1,5	tet(A)	1369	1,5
+Escherichia coli	GYRBA	1260	1,2	GYRBA	1260	1,2	Escherichia coli gyrB conferring resistance to aminocoumarin	1258	1,2
+Escherichia coli	GYRBA	1260	1,2	GYRBA	1260	1,2	Staphylococcus aureus gyrB conferring resistance to aminocoumarin	2	1,1
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-15	482	1,3	change_by_hand(1,4->1,16)
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-1	121	1,2	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-55	115	1,2	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-14	111	1,3	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-27	106	1,4	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-65	20	1,2	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-9	12	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-32	12	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-11	4	1,2	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-2	3	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-3	2	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-189	1	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-191	1	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-106	1	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-16	1	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-8	1	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-134	1	2,2	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-182	1	1,1	change_by_hand
+Escherichia coli	CTX	985	1,16	CTX	985	1,4	CTX-M-192	1	1,1	change_by_hand
+Escherichia coli	MPHA	910	1,4	MPHA	910	1,4	mphA	910	1,4
+Escherichia coli	IS903B_family_transposase	841	1,9	IS903B_family_transposase	841	1,9	WP7S18C02830	841	1,9
+Escherichia coli	TETRM	810	1,3	TETRM	810	1,3	tetR0	810	1,3
+Escherichia coli	TETB	803	1,3	TETB	803	1,3	tet(B)	803	1,3
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-IId	323	1,2	change_by_hand(1,3->1,8)
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-IIe	232	1,2	change_by_hand
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-VIa	59	1,3	change_by_hand
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-IV	44	1,2	change_by_hand
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-IIg	16	1,2	change_by_hand
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-Ib	1	1,1	change_by_hand
+Escherichia coli	AAC3	660	1,8	AAC3	660	1,3	AAC(3)-Ia	1	1,1	change_by_hand
+Escherichia coli	OXA	440	1,3	OXA-1 family	414	1,3	OXA-1	414	1,3
+Escherichia coli	OXA	440	1,3	OXA-9 family	11	1,2	OXA-9	11	1,2
+Escherichia coli	OXA	440	1,3	OXA-2 family	7	1,1	OXA-2	7	1,1
+Escherichia coli	OXA	440	1,3	OXA-10 family	6	1,1	OXA-10	6	1,1
+Escherichia coli	OXA	440	1,3	OXA-48 family	4	1,1	OXA-181	2	1,1
+Escherichia coli	OXA	440	1,3	OXA-48 family	4	1,1	OXA-48	2	1,1
+Escherichia coli	OXA	440	1,3	OXA-4 family	3	1,1	OXA-33	3	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib-cr	364	1,3
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-IIc	16	1,2
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib7	14	1,2
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib'	13	1,2
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib4	11	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib10	4	1,2
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ip	2	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib-Hangzhou	2	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib	2	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib-cr4	1	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib-Suzhou	1	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Im	1	1,1
+Escherichia coli	AAC6-PRIME	426	1,4	AAC6-PRIME	426	1,4	AAC(6')-Ib-cr5	1	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-2	376	1,4
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-42	15	1,2
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-6	8	1,2
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-30	7	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-44	5	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-61	3	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-158	3	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-15	2	1,2
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-7	2	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-17	2	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-153	1	1,1
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-59	1	2,2
+Escherichia coli	CMY	424	1,4	CMY	424	1,4	CMY-111	1	1,1
+Escherichia coli	CATA	421	1,2	CATA	421	1,2	catI	385	1,2
+Escherichia coli	CATA	421	1,2	CATA	421	1,2	catII from Escherichia coli K-12	40	1,2
+Escherichia coli	CATA	421	1,2	CATA	421	1,2	catIII	1	1,1
+Escherichia coli	BLAEC	391	1,2	BLAEC	391	1,2	Escherichia coli ampC beta-lactamase	391	1,2
+Escherichia coli	CATB	379	1,3	CATB	379	1,3	catB3	377	1,3
+Escherichia coli	CATB	379	1,3	CATB	379	1,3	catB8	2	1,1
+Escherichia coli	APH3-PRIME	369	1,4	APH3-PRIME	369	1,4	APH(3')-Ia	350	1,2
+Escherichia coli	APH3-PRIME	369	1,4	APH3-PRIME	369	1,4	APH(3')-IIa	24	1,2
+Escherichia coli	APH3-PRIME	369	1,4	APH3-PRIME	369	1,4	APH(3')-VI	3	1,1
+Escherichia coli	APH3-PRIME	369	1,4	APH3-PRIME	369	1,4	APH(3')-VIb	1	1,1
+Escherichia coli	APH3-PRIME	369	1,4	APH3-PRIME	369	1,4	APH(3')-IIIa	1	1,1
+Escherichia coli	FLOR	359	1,2	FLOR	359	1,2	floR	358	1,2
+Escherichia coli	FLOR	359	1,2	FLOR	359	1,2	pp-flo	1	1,1
+Escherichia coli	SAT	219	1,2	SAT	219	1,2	sat-2	218	1,2
+Escherichia coli	SAT	219	1,2	SAT	219	1,2	sat-4	2	1,1
+Escherichia coli	QACL	205	1,3	QACL	205	1,3	qacL	205	1,3
+Escherichia coli	CMLA	199	1,3	CMLA	199	1,3	cmlA1	168	1,3
+Escherichia coli	CMLA	199	1,3	CMLA	199	1,3	cmlA6	21	1,1
+Escherichia coli	CMLA	199	1,3	CMLA	199	1,3	cmlA5	9	1,1
+Escherichia coli	CMLA	199	1,3	CMLA	199	1,3	Salmonella enterica cmlA	1	1,1
+Escherichia coli	QNRS	196	1,4	QNRS	196	1,4	QnrS1	186	1,2
+Escherichia coli	QNRS	196	1,4	QNRS	196	1,4	QnrS2	11	1,2
+Escherichia coli	QNRS	196	1,4	QNRS	196	1,4	QnrS4	1	1,1
+Escherichia coli	BRP	136	1,2	BRP	136	1,2	BRP(MBL)	133	1,2
+Escherichia coli	BRP	136	1,2	BRP	136	1,2	BLMT	3	1,1
+Escherichia coli	MCR	133	1,2	mcr-1	100	1,2	mcr-1.1	92	1,2
+Escherichia coli	MCR	133	1,2	mcr-1	100	1,2	mcr-1.2	8	1,1
+Escherichia coli	MCR	133	1,2	mcr-3	25	1,1	mcr-3.1	10	1,1
+Escherichia coli	MCR	133	1,2	mcr-3	25	1,1	mcr-3.5	7	1,1
+Escherichia coli	MCR	133	1,2	mcr-3	25	1,1	mcr-3.2	6	1,1
+Escherichia coli	MCR	133	1,2	mcr-3	25	1,1	mcr-3.4	2	1,1
+Escherichia coli	MCR	133	1,2	mcr-9	15	1,1	mcr-9.1	15	1,1
+Escherichia coli	MCR	133	1,2	mcr-5	2	1,1	mcr-5.1	2	1,1
+Escherichia coli	MCR	133	1,2	mcr-4	2	1,1	mcr-4.2	1	1,1
+Escherichia coli	MCR	133	1,2	mcr-4	2	1,1	mcr-4.1	1	1,1
+Escherichia coli	MCR	133	1,2	mcr-2	1	1,1	mcr-2.2	1	1,1
+Escherichia coli	NDM	133	1,2	NDM	133	1,2	NDM-5	93	1,2
+Escherichia coli	NDM	133	1,2	NDM	133	1,2	NDM-1	24	1,2
+Escherichia coli	NDM	133	1,2	NDM	133	1,2	NDM-9	10	1,2
+Escherichia coli	NDM	133	1,2	NDM	133	1,2	NDM-7	4	1,1
+Escherichia coli	NDM	133	1,2	NDM	133	1,2	NDM-6	1	1,1
+Escherichia coli	NDM	133	1,2	NDM	133	1,2	NDM-20	1	1,1
+Escherichia coli	SHV	107	1,5	SHV	107	1,5	SHV-48	58	1,5
+Escherichia coli	SHV	107	1,5	SHV	107	1,5	SHV-12	42	1,2
+Escherichia coli	SHV	107	1,5	SHV	107	1,5	SHV-2	4	1,1
+Escherichia coli	SHV	107	1,5	SHV	107	1,5	SHV-5	2	1,1
+Escherichia coli	SHV	107	1,5	SHV	107	1,5	SHV-22	1	1,1
+Escherichia coli	SHV	107	1,5	SHV	107	1,5	SHV-30	1	1,1
+Escherichia coli	TETM	99	1,3	TETM	99	1,3	tetM	99	1,3
+Escherichia coli	FOSA	83	1,2	FOSA	83	1,2	FosA3	45	1,2
+Escherichia coli	FOSA	83	1,2	FOSA	83	1,2	FosA7.5	28	1,1
+Escherichia coli	FOSA	83	1,2	FOSA	83	1,2	FosA4	5	1,1
+Escherichia coli	FOSA	83	1,2	FOSA	83	1,2	FosA5	3	1,1
+Escherichia coli	FOSA	83	1,2	FOSA	83	1,2	FosA6	2	1,1
+Escherichia coli	TETD	80	1,2	TETD	80	1,2	tet(D)	80	1,2
+Escherichia coli	ERMB	69	1,2	ERMB	69	1,2	ErmB	69	1,2
+Escherichia coli	OQXA	51	1,2	OQXA	51	1,2	oqxA	51	1,2
+Escherichia coli	OQXB	50	1,2	OQXB	50	1,2	oqxB	50	1,2
+Escherichia coli	APH4	41	1,2	APH4	41	1,2	APH(4)-Ia	41	1,2
+Escherichia coli	KPC	40	1,3	KPC	40	1,3	KPC-3	22	1,2
+Escherichia coli	KPC	40	1,3	KPC	40	1,3	KPC-2	16	1,3
+Escherichia coli	KPC	40	1,3	KPC	40	1,3	KPC-4	2	1,1
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB5	13	1,1
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB4	9	1,2
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB1	5	1,2
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB17	5	1,1
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB20	4	1,1
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB19	2	1,1
+Escherichia coli	QNRB	38	1,2	QNRB	38	1,2	QnrB7	1	1,1
+Escherichia coli	MPHB	38	1,2	MPHB	38	1,2	mphB	38	1,2
+Escherichia coli	LNUF	35	1,2	LNUF	35	1,2	linG	31	1,2
+Escherichia coli	LNUF	35	1,2	LNUF	35	1,2	lnuF	4	1,2
+Escherichia coli	MEFB	32	1,2	MEFB	32	1,2	mef(B)	32	1,2
+Escherichia coli	RMT	31	1,2	RMT	31	1,2	rmtB	23	1,2
+Escherichia coli	RMT	31	1,2	RMT	31	1,2	rmtC	6	1,1
+Escherichia coli	RMT	31	1,2	RMT	31	1,2	armA	2	1,1
+Escherichia coli	ARR	27	1,2	ARR	27	1,2	arr-3	21	1,2
+Escherichia coli	ARR	27	1,2	ARR	27	1,2	arr-2	6	1,1
+Escherichia coli	ANT2-DPRIME	18	1,2	ANT2-DPRIME	18	1,2	AF42200	15	1,2
+Escherichia coli	ANT2-DPRIME	18	1,2	ANT2-DPRIME	18	1,2	ANT(2'')-Ia	4	1,2
+Escherichia coli	EREA	18	1,2	EREA	18	1,2	EreA2	18	1,2
+Escherichia coli	formA	15	1,1	formA	15	1,1	formA	15	1,1
+Escherichia coli	LNUG	11	1,2	LNUG	11	1,2	lnuG	11	1,2
+Escherichia coli	QEPA	11	1,1	QEPA	11	1,1	QepA4	6	1,1
+Escherichia coli	QEPA	11	1,1	QEPA	11	1,1	QepA2	5	1,1
+Escherichia coli	DHA	10	1,2	DHA	10	1,2	DHA-1	9	1,2
+Escherichia coli	DHA	10	1,2	DHA	10	1,2	DHA-6	1	1,1
+Escherichia coli	O23S	9	1,1	O23S	9	1,1	Staphylococcus aureus 23S rRNA with mutation conferring resistance to linezolid	9	1,1
+Escherichia coli	CARB	8	1,1	CARB	8	1,1	CARB-3	8	1,1
+Escherichia coli	ANT9	6	1,1	ANT9	6	1,1	ANT(9)-Ia	6	1,1
+Escherichia coli	BLAZ	6	1,1	BLAZ	6	1,1	mecC-type BlaZ	6	1,1
+Escherichia coli	TETX	5	1,1	TETX	5	1,1	Tet(X4)	5	1,1
+Escherichia coli	LAP	5	1,1	LAP	5	1,1	LAP-2	5	1,1
+Escherichia coli	MEPR	5	1,2	MEPR	5	1,2	mepR	5	1,2
+Escherichia coli	FUSE	4	1,2	FUSE	4	1,2	Staphylococcus aureus FusE with mutation conferring resistance to Fusidic acid	4	1,2
+Escherichia coli	ERM42	4	1,1	ERM42	4	1,1	Erm(42)	4	1,1
+Escherichia coli	MGRA	3	1,2	MGRA	3	1,2	mgrA	3	1,2
+Escherichia coli	QNRD	3	1,1	QNRD	3	1,1	QnrD1	3	1,1
+Escherichia coli	ANT4-PRIME	3	1,1	ANT4-PRIME	3	1,1	ANT(4')-Ib	3	1,1
+Escherichia coli	MSRE	3	1,1	MSRE	3	1,1	msrE	3	1,1
+Escherichia coli	FUSA	3	1,1	FUSA	3	1,1	Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid	3	1,1
+Escherichia coli	MPHE	3	1,1	MPHE	3	1,1	mphE	3	1,1
+Escherichia coli	TETC	3	1,1	TETC	3	1,1	tet(C)	3	1,1
+Escherichia coli	DFRB	2	1,1	DFRB	2	1,1	dfrB1	2	1,1
+Escherichia coli	FOSB	2	1,1	FOSB	2	1,1	Staphylococcus aureus FosB	2	1,1
+Escherichia coli	WALK	2	1,1	WALK	2	1,1	Staphylococcus aureus walK with mutation conferring resistance to daptomycin	2	1,1
+Escherichia coli	ANT6	2	1,1	ANT6	2	1,1	aad(6)	1	1,1
+Escherichia coli	ANT6	2	1,1	ANT6	2	1,1	ANT(6)-Ia	1	1,1
+Escherichia coli	HERA	2	1,1	HERA	2	1,1	HERA-3	2	1,1
+Escherichia coli	ERMC	2	1,1	ERMC	2	1,1	ErmC	2	1,1
+Escherichia coli	DFRG	1	1,1	DFRG	1	1,1	dfrG	1	1,1
+Escherichia coli	QNRVC	1	1,1	QNRVC	1	1,1	QnrVC4	1	1,1
+Escherichia coli	EREB	1	1,1	EREB	1	1,1	EreB	1	1,1
+Escherichia coli	QNRA	1	1,1	QNRA	1	1,1	QnrA1	1	1,1
+Escherichia coli	MEFC	1	1,1	MEFC	1	1,1	mefC	1	1,1
+Escherichia coli	ERMA	1	1,1	ERMA	1	1,1	ErmA	1	1,1
+Escherichia coli	CLS	1	1,1	CLS	1	1,1	Staphylococcus aureus cls conferring resistance to daptomycin	1	1,1
+Escherichia coli	FEXA	1	1,1	FEXA	1	1,1	fexA	1	1,1
+Escherichia coli	NORA	1	1,1	NORA	1	1,1	norA	1	1,1
+Escherichia coli	GES	1	1,1	GES	1	1,1	GES-2	1	1,1
+Escherichia coli	DFRF	1	1,1	DFRF	1	1,1	dfrF	1	1,1
+Escherichia coli	KPNE	1	1,1	KPNE	1	1,1	kpnE	1	1,1
+Escherichia coli	VANZA	1	1,1	VANZA	1	1,1	vanZA	1	1,1
+Escherichia coli	APH2-DPRIME	1	1,1	APH2-DPRIME	1	1,1	APH(2'')-IIa	1	1,1
+Escherichia coli	IMP	1	1,1	IMP	1	1,1	IMP-70	1	1,1
+Escherichia coli	MOX	1	1,1	MOX	1	1,1	MOX-2	1	1,1
+Escherichia coli	MPHG	1	1,1	MPHG	1	1,1	mphG	1	1,1
+Escherichia coli	ILES	1	1,1	ILES	1	1,1	Staphylococcus aureus ileS with mutation conferring resistance to mupirocin	1	1,1
+Escherichia coli	MENA	1	1,1	MENA	1	1,1	Staphylococcus aureus menA with mutation conferring resistance to lysocin	1	1,1
+Escherichia coli	VEB	1	1,1	VEB	1	1,1	VEB-5	1	1,1
+Escherichia coli	LEN	1	1,1	LEN	1	1,1	LEN-6	1	1,1

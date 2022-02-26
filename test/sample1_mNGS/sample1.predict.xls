@@ -1,0 +1,13 @@
+#Patho	drug	detect_ARGs	scores	cutoff	predict	accuracy	patho_rn	patho_coverage
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC-2;SHV-12	8.065622	2.419621	R	0.974	478279	92.137
+Klebsiella pneumoniae	carbapenem:imipenem	KPC-2	5.799643	3.427238	R	0.943	478279	92.137
+Klebsiella pneumoniae	carbapenem:meropenem	KPC-2	5.327237	1.969958	R	0.955	478279	92.137
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	rmtB	4.126076	1.193029	R	0.955	478279	92.137
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	RMT	4.100426	2.946941	R	0.910	478279	92.137
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	ND	0.000000	0.473469	/	/	478279	92.137
+Escherichia coli	cephalosporin:ceftazidime	ND	0.000000	2.327160	/	/	4355	0.792
+Escherichia coli	carbapenem:imipenem	ND	0.000000	4.835987	/	/	4355	0.792
+Escherichia coli	carbapenem:meropenem	ND	0.000000	2.169764	/	/	4355	0.792
+Escherichia coli	aminoglycoside antibiotic:gentamicin	ND	0.000000	4.927598	/	/	4355	0.792
+Escherichia coli	aminoglycoside antibiotic:tobramycin	ND	0.000000	3.484384	/	/	4355	0.792
+Escherichia coli	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	ND	0.000000	2.528600	/	/	4355	0.792

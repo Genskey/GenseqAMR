@@ -1,0 +1,30 @@
+#focus_patho	method	detect_gf	gf_rn	detect_gt	gt_rn(specific|ARG-like)	copy_num	model_type	Varation	genome_coverage(%)	AvgDepth	spe_rn	genus_rn	total_Bac_rn
+Escherichia coli	DB_taxon_anno	LAMB	4	Escherichia coli LamB	4|4	2.67	protein knockout model	36(T->C),48(G->A),54(A->G),69(A->G),70(A->C),78(T->C)	0.792	7.2	4355	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KP_GYRB	277	KP_gyrB	277|293	1.4	protein variant model	633(T->C),879(C->T),909(C->T),1095(C->T),1167(C->T),1182(C->T),1569(T->C),1908(A->C),2349(C->T)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KP_GYRA	223	KP_gyrA	223|227	1.01	protein variant model	247(T->A),248(C->T),260(A->G),537(C->G),552(G->A),699(C->T),1167(C->T),1251(T->C),1533(C->T),1851(G->A),2502(A->G),2556(C->T),2568(A->G),2580(T->C)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KP_PARC	218	KP_parC	218|218	1.14	protein variant model	239(G->T),726(C->T),765(C->T),840(T->G),1245(G->A),1854(G->T)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KP_PARE	156	KP_parE	156|156	0.96	protein variant model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPC	235	KPC-2	0|234	3.04	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPC	235	KPC-25	0|223	2.86	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	SHV	218	SHV-12	0|203	2.75	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	EPTB	238	eptB	238|238	1.61	protein homolog model	360(T->C),437(T->C),693(A->T),851(A->G),917(T->C),987(C->A)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	ARNT	156	ArnT	156|156	1.1	protein homolog model	347(T->C),458(T->C),591(C->T)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	LPTD	269	LptD	269|269	1.34	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	OMPA	100	OmpA	100|100	1.03	protein homolog model	91(G->A),252(C->T),995(C->A)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	OMP37	91	Klebsiella pneumoniae OmpK37	91|91	0.88	protein homolog model	210(T->G),384(T->G),477(T->C),624(T->C),648(C->T),723(T->C),732(A->C),804(T->G),843(A->G)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	OMPK	67	Klebsiella pneumoniae OmpK35	67|67	1.12	protein knockout model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPNH	138	Klebsiella pneumoniae KpnH	138|138	1.03	protein homolog model	1290(G->A)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPN	107	Klebsiella pneumoniae KpnG	107|107	1.05	protein homolog model	409(T->G),885(T->C),903(C->T),924(C->T),954(C->T),1110(C->T)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	CATA	218	catII from Escherichia coli K-12	194|196	3.43	protein homolog model	48(C->T),123(C->T),133(G->A),135(G->A),138(A->C),214(C->A),222(C->T),231(T->G),243(C->A),294(T->C),339(A->G),348(T->C),357(G->A),381(A->G),429(A->G),435(G->C),459(C->T),465(C->T),490(G->T),504(G->A),538(T->C),573(A->C),582(C->T),595(C->A),603(T->C)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	RMT	185	rmtB	185|185	2.85	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	FOSA	156	FosA3	119|131	3.43	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	plasmid	FOSA	156	FosA6	9|19	0.5	protein homolog model	271(A->G)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	IS903B_family_transposase	144	WP7S18C02830	144|144	1.66	protein homolog model	315(C->T),326(G->C),328(T->A),338(G->A),358(A->G),373(C->T),402(A->G),429(C->T),441(G->A),443(G->A),486(T->A),490(C->T),621(C->A),624(T->C),627(A->C),636(T->C),637(A->C),723(A->T)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	plasmid	RAMA	85	E.coli ramA	85|85	1.54	protein variant model	135(A->G),192(C->G),195(T->C),228(C->T),324(T->C),336(A->T),345(T->C),360(T->C),366(A->G),413(G->A),414(T->A),415(C->G),429(A->C),450(G->A),456(G->A),546(T->C),553(A->C)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	RAMR	47	Klebsiella pneumoniae ramR mutants	47|47	0.91	protein variant model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	ADEI	92	Klebsiella pneumoniae acrA	92|92	0.89	protein homolog model	275(T->C),306(A->G),308(G->C),406(C->A),433(C->A),610(T->C),627(A->G),628(G->C),701(C->G),741(G->A),756(G->T),867(T->A),984(T->G)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPNO	64	Klebsiella pneumoniae OmpK36	62|63	0.62	protein knockout model	546(C->T),547(G->A),550(CTG),558(T->G),609(T->C),654(A->G),660(T->G),661(A->C),891(G->A),918(T->C),919(C->A),921(G->C),927(C->T),943(A->C),945(C->G),1053(C->T)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPNE	33	kpnE	33|33	1.05	protein homolog model	333(A->C),334(C->A)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	KPNF	17	kpnF	17|17	0.55	protein homolog model	0	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	ACRR	69	Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance	69|69	1.21	protein variant model	441(G->A)	92.137	6.8	478279	NA	NA
+Klebsiella pneumoniae	DB_taxon_anno	PHOB	56	Klebsiella mutant PhoP conferring antibiotic resistance to colistin	56|56	0.92	protein variant model	0	92.137	6.8	478279	NA	NA

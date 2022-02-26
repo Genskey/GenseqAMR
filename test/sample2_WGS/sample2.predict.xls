@@ -1,0 +1,7 @@
+#Patho	drug	detect_ARGs	scores	cutoff	predict	accuracy
+Klebsiella pneumoniae	cephalosporin:ceftazidime	KPC-2;SHV-12	8.065622	2.419621	R	0.986
+Klebsiella pneumoniae	carbapenem:imipenem	KPC-2	5.799643	3.427238	R	0.947
+Klebsiella pneumoniae	carbapenem:meropenem	KPC-2	5.327237	1.969958	R	0.948
+Klebsiella pneumoniae	aminoglycoside antibiotic:gentamicin	rmtB	4.126076	1.193029	R	0.967
+Klebsiella pneumoniae	aminoglycoside antibiotic:tobramycin	ANT3-DPRIME;RMT	5.148819	1.508625	R	0.967
+Klebsiella pneumoniae	sulfonamide antibiotic:trimethoprim-sulfamethoxazole	dfrA14	2.281853	0.473469	R	0.964
